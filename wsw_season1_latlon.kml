@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>WSW Season 1 match venues</name>
+	<Schema name="wsw_season1_latlon" id="S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+		<SimpleField type="int" name="Match_Number"><displayName>Match Number</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Weekday"><displayName>Weekday</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Date"><displayName>Date</displayName>
+</SimpleField>
+		<SimpleField type="int" name="Day"><displayName>Day</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Month"><displayName>Month</displayName>
+</SimpleField>
+		<SimpleField type="int" name="Year"><displayName>Year</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Local_Time"><displayName>Local Time</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Opponent"><displayName>Opponent</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Opponent_State_Country"><displayName>Opponent State/Country</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Competition"><displayName>Competition</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Round"><displayName>Round</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Venue"><displayName>Venue</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Location"><displayName>Location</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Address"><displayName>Address</displayName>
+</SimpleField>
+		<SimpleField type="double" name="Latitude"><displayName>Latitude</displayName>
+</SimpleField>
+		<SimpleField type="double" name="Longitude"><displayName>Longitude</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Home_or_Away"><displayName>Home or Away</displayName>
+</SimpleField>
+		<SimpleField type="int" name="Attendance"><displayName>Attendance</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Match_Result"><displayName>Match Result</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Score___WSW_Opp"><displayName>Score - WSW-Opp</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Notes"><displayName>Notes</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Club_Achievements__Milestones_and_Records"><displayName>Club Achievements, Milestones and Records</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="hlightPointStyle">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Match Number</b></td><td>$[wsw_season1_latlon/Match_Number]</td></tr>
+  <tr><td><b>Weekday</b></td><td>$[wsw_season1_latlon/Weekday]</td></tr>
+  <tr><td><b>Date</b></td><td>$[wsw_season1_latlon/Date]</td></tr>
+  <tr><td><b>Day</b></td><td>$[wsw_season1_latlon/Day]</td></tr>
+  <tr><td><b>Month</b></td><td>$[wsw_season1_latlon/Month]</td></tr>
+  <tr><td><b>Year</b></td><td>$[wsw_season1_latlon/Year]</td></tr>
+  <tr><td><b>Local Time</b></td><td>$[wsw_season1_latlon/Local_Time]</td></tr>
+  <tr><td><b>Opponent</b></td><td>$[wsw_season1_latlon/Opponent]</td></tr>
+  <tr><td><b>Opponent State/Country</b></td><td>$[wsw_season1_latlon/Opponent_State_Country]</td></tr>
+  <tr><td><b>Competition</b></td><td>$[wsw_season1_latlon/Competition]</td></tr>
+  <tr><td><b>Round</b></td><td>$[wsw_season1_latlon/Round]</td></tr>
+  <tr><td><b>Venue</b></td><td>$[wsw_season1_latlon/Venue]</td></tr>
+  <tr><td><b>Location</b></td><td>$[wsw_season1_latlon/Location]</td></tr>
+  <tr><td><b>Address</b></td><td>$[wsw_season1_latlon/Address]</td></tr>
+  <tr><td><b>Latitude</b></td><td>$[wsw_season1_latlon/Latitude]</td></tr>
+  <tr><td><b>Longitude</b></td><td>$[wsw_season1_latlon/Longitude]</td></tr>
+  <tr><td><b>Home or Away</b></td><td>$[wsw_season1_latlon/Home_or_Away]</td></tr>
+  <tr><td><b>Attendance</b></td><td>$[wsw_season1_latlon/Attendance]</td></tr>
+  <tr><td><b>Match Result</b></td><td>$[wsw_season1_latlon/Match_Result]</td></tr>
+  <tr><td><b>Score - WSW-Opp</b></td><td>$[wsw_season1_latlon/Score___WSW_Opp]</td></tr>
+  <tr><td><b>Notes</b></td><td>$[wsw_season1_latlon/Notes]</td></tr>
+  <tr><td><b>Club Achievements, Milestones and Records</b></td><td>$[wsw_season1_latlon/Club_Achievements__Milestones_and_Records]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="hlightPointStyle0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Match Number</b></td><td>$[wsw_season1_latlon/Match_Number]</td></tr>
+  <tr><td><b>Weekday</b></td><td>$[wsw_season1_latlon/Weekday]</td></tr>
+  <tr><td><b>Date</b></td><td>$[wsw_season1_latlon/Date]</td></tr>
+  <tr><td><b>Day</b></td><td>$[wsw_season1_latlon/Day]</td></tr>
+  <tr><td><b>Month</b></td><td>$[wsw_season1_latlon/Month]</td></tr>
+  <tr><td><b>Year</b></td><td>$[wsw_season1_latlon/Year]</td></tr>
+  <tr><td><b>Local Time</b></td><td>$[wsw_season1_latlon/Local_Time]</td></tr>
+  <tr><td><b>Opponent</b></td><td>$[wsw_season1_latlon/Opponent]</td></tr>
+  <tr><td><b>Opponent State/Country</b></td><td>$[wsw_season1_latlon/Opponent_State_Country]</td></tr>
+  <tr><td><b>Competition</b></td><td>$[wsw_season1_latlon/Competition]</td></tr>
+  <tr><td><b>Round</b></td><td>$[wsw_season1_latlon/Round]</td></tr>
+  <tr><td><b>Venue</b></td><td>$[wsw_season1_latlon/Venue]</td></tr>
+  <tr><td><b>Location</b></td><td>$[wsw_season1_latlon/Location]</td></tr>
+  <tr><td><b>Address</b></td><td>$[wsw_season1_latlon/Address]</td></tr>
+  <tr><td><b>Latitude</b></td><td>$[wsw_season1_latlon/Latitude]</td></tr>
+  <tr><td><b>Longitude</b></td><td>$[wsw_season1_latlon/Longitude]</td></tr>
+  <tr><td><b>Home or Away</b></td><td>$[wsw_season1_latlon/Home_or_Away]</td></tr>
+  <tr><td><b>Attendance</b></td><td>$[wsw_season1_latlon/Attendance]</td></tr>
+  <tr><td><b>Match Result</b></td><td>$[wsw_season1_latlon/Match_Result]</td></tr>
+  <tr><td><b>Score - WSW-Opp</b></td><td>$[wsw_season1_latlon/Score___WSW_Opp]</td></tr>
+  <tr><td><b>Notes</b></td><td>$[wsw_season1_latlon/Notes]</td></tr>
+  <tr><td><b>Club Achievements, Milestones and Records</b></td><td>$[wsw_season1_latlon/Club_Achievements__Milestones_and_Records]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="pointStyleMap">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#normPointStyle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hlightPointStyle0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="pointStyleMap0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#normPointStyle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hlightPointStyle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="normPointStyle">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Match Number</b></td><td>$[wsw_season1_latlon/Match_Number]</td></tr>
+  <tr><td><b>Weekday</b></td><td>$[wsw_season1_latlon/Weekday]</td></tr>
+  <tr><td><b>Date</b></td><td>$[wsw_season1_latlon/Date]</td></tr>
+  <tr><td><b>Day</b></td><td>$[wsw_season1_latlon/Day]</td></tr>
+  <tr><td><b>Month</b></td><td>$[wsw_season1_latlon/Month]</td></tr>
+  <tr><td><b>Year</b></td><td>$[wsw_season1_latlon/Year]</td></tr>
+  <tr><td><b>Local Time</b></td><td>$[wsw_season1_latlon/Local_Time]</td></tr>
+  <tr><td><b>Opponent</b></td><td>$[wsw_season1_latlon/Opponent]</td></tr>
+  <tr><td><b>Opponent State/Country</b></td><td>$[wsw_season1_latlon/Opponent_State_Country]</td></tr>
+  <tr><td><b>Competition</b></td><td>$[wsw_season1_latlon/Competition]</td></tr>
+  <tr><td><b>Round</b></td><td>$[wsw_season1_latlon/Round]</td></tr>
+  <tr><td><b>Venue</b></td><td>$[wsw_season1_latlon/Venue]</td></tr>
+  <tr><td><b>Location</b></td><td>$[wsw_season1_latlon/Location]</td></tr>
+  <tr><td><b>Address</b></td><td>$[wsw_season1_latlon/Address]</td></tr>
+  <tr><td><b>Latitude</b></td><td>$[wsw_season1_latlon/Latitude]</td></tr>
+  <tr><td><b>Longitude</b></td><td>$[wsw_season1_latlon/Longitude]</td></tr>
+  <tr><td><b>Home or Away</b></td><td>$[wsw_season1_latlon/Home_or_Away]</td></tr>
+  <tr><td><b>Attendance</b></td><td>$[wsw_season1_latlon/Attendance]</td></tr>
+  <tr><td><b>Match Result</b></td><td>$[wsw_season1_latlon/Match_Result]</td></tr>
+  <tr><td><b>Score - WSW-Opp</b></td><td>$[wsw_season1_latlon/Score___WSW_Opp]</td></tr>
+  <tr><td><b>Notes</b></td><td>$[wsw_season1_latlon/Notes]</td></tr>
+  <tr><td><b>Club Achievements, Milestones and Records</b></td><td>$[wsw_season1_latlon/Club_Achievements__Milestones_and_Records]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="normPointStyle0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Match Number</b></td><td>$[wsw_season1_latlon/Match_Number]</td></tr>
+  <tr><td><b>Weekday</b></td><td>$[wsw_season1_latlon/Weekday]</td></tr>
+  <tr><td><b>Date</b></td><td>$[wsw_season1_latlon/Date]</td></tr>
+  <tr><td><b>Day</b></td><td>$[wsw_season1_latlon/Day]</td></tr>
+  <tr><td><b>Month</b></td><td>$[wsw_season1_latlon/Month]</td></tr>
+  <tr><td><b>Year</b></td><td>$[wsw_season1_latlon/Year]</td></tr>
+  <tr><td><b>Local Time</b></td><td>$[wsw_season1_latlon/Local_Time]</td></tr>
+  <tr><td><b>Opponent</b></td><td>$[wsw_season1_latlon/Opponent]</td></tr>
+  <tr><td><b>Opponent State/Country</b></td><td>$[wsw_season1_latlon/Opponent_State_Country]</td></tr>
+  <tr><td><b>Competition</b></td><td>$[wsw_season1_latlon/Competition]</td></tr>
+  <tr><td><b>Round</b></td><td>$[wsw_season1_latlon/Round]</td></tr>
+  <tr><td><b>Venue</b></td><td>$[wsw_season1_latlon/Venue]</td></tr>
+  <tr><td><b>Location</b></td><td>$[wsw_season1_latlon/Location]</td></tr>
+  <tr><td><b>Address</b></td><td>$[wsw_season1_latlon/Address]</td></tr>
+  <tr><td><b>Latitude</b></td><td>$[wsw_season1_latlon/Latitude]</td></tr>
+  <tr><td><b>Longitude</b></td><td>$[wsw_season1_latlon/Longitude]</td></tr>
+  <tr><td><b>Home or Away</b></td><td>$[wsw_season1_latlon/Home_or_Away]</td></tr>
+  <tr><td><b>Attendance</b></td><td>$[wsw_season1_latlon/Attendance]</td></tr>
+  <tr><td><b>Match Result</b></td><td>$[wsw_season1_latlon/Match_Result]</td></tr>
+  <tr><td><b>Score - WSW-Opp</b></td><td>$[wsw_season1_latlon/Score___WSW_Opp]</td></tr>
+  <tr><td><b>Notes</b></td><td>$[wsw_season1_latlon/Notes]</td></tr>
+  <tr><td><b>Club Achievements, Milestones and Records</b></td><td>$[wsw_season1_latlon/Club_Achievements__Milestones_and_Records]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder id="layer 0">
+		<name>WSW Season 1 match venues</name>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">1</SimpleData>
+					<SimpleData name="Weekday">Wednesday</SimpleData>
+					<SimpleData name="Date">25 July 2012</SimpleData>
+					<SimpleData name="Day">25</SimpleData>
+					<SimpleData name="Month">July</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">19:30</SimpleData>
+					<SimpleData name="Opponent">Nepean FC</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">Friendly</SimpleData>
+					<SimpleData name="Round">Pre-season</SimpleData>
+					<SimpleData name="Venue">Cook Park</SimpleData>
+					<SimpleData name="Location">St Marys, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Cook Park, St Marys, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.77616982927349</SimpleData>
+					<SimpleData name="Longitude">150.7697874652876</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">3612</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">5 - 0</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First match. First goal. First win.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.7697874652876,-33.77616982927349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">2</SimpleData>
+					<SimpleData name="Weekday">Wednesday</SimpleData>
+					<SimpleData name="Date">1 August 2012</SimpleData>
+					<SimpleData name="Day">1</SimpleData>
+					<SimpleData name="Month">August</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">19:30</SimpleData>
+					<SimpleData name="Opponent">Blacktown Spartans</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">Friendly</SimpleData>
+					<SimpleData name="Round">Pre-season</SimpleData>
+					<SimpleData name="Venue">Athletics Centre, Blacktown International Sportspark</SimpleData>
+					<SimpleData name="Location">Rooty Hill, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Athletics Centre, Blacktown International Sportspark, Rooty Hill, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.76985018779725</SimpleData>
+					<SimpleData name="Longitude">150.8527703702235</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">4116</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">2 - 0</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.8527703702235,-33.76985018779725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">3</SimpleData>
+					<SimpleData name="Weekday">Wednesday</SimpleData>
+					<SimpleData name="Date">8 August 2012</SimpleData>
+					<SimpleData name="Day">8</SimpleData>
+					<SimpleData name="Month">August</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">19:00</SimpleData>
+					<SimpleData name="Opponent">Blacktown City</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">Friendly</SimpleData>
+					<SimpleData name="Round">Pre-season</SimpleData>
+					<SimpleData name="Venue">Gabbie Stadium</SimpleData>
+					<SimpleData name="Location">Seven Hills, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Gabbie Stadium, Seven Hills, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.76706144323335</SimpleData>
+					<SimpleData name="Longitude">150.9400492699214</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">3472</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">2 - 0</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.9400492699214,-33.76706144323335,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">4</SimpleData>
+					<SimpleData name="Weekday">Wednesday</SimpleData>
+					<SimpleData name="Date">22 August 2012</SimpleData>
+					<SimpleData name="Day">22</SimpleData>
+					<SimpleData name="Month">August</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">19:30</SimpleData>
+					<SimpleData name="Opponent">Sydney United</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">Friendly</SimpleData>
+					<SimpleData name="Round">Pre-season</SimpleData>
+					<SimpleData name="Venue">Edensor Park</SimpleData>
+					<SimpleData name="Location">Edensor Park, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Edensor Park, Edensor Park, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.87572487548244</SimpleData>
+					<SimpleData name="Longitude">150.8741927468741</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">3234</SimpleData>
+					<SimpleData name="Match_Result">Loss</SimpleData>
+					<SimpleData name="Score___WSW_Opp">1 - 2</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First loss. First goal conceded.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.8741927468741,-33.87572487548244,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">5</SimpleData>
+					<SimpleData name="Weekday">Tuesday</SimpleData>
+					<SimpleData name="Date">28 August 2012</SimpleData>
+					<SimpleData name="Day">28</SimpleData>
+					<SimpleData name="Month">August</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">19:30</SimpleData>
+					<SimpleData name="Opponent">Wynnum Wolves</SimpleData>
+					<SimpleData name="Opponent_State_Country">QLD</SimpleData>
+					<SimpleData name="Competition">Friendly</SimpleData>
+					<SimpleData name="Round">Pre-season</SimpleData>
+					<SimpleData name="Venue">Carmichael Park</SimpleData>
+					<SimpleData name="Location">Tingalpa, QLD, Australia</SimpleData>
+					<SimpleData name="Address">Carmichael Park, Tingalpa, QLD, Australia</SimpleData>
+					<SimpleData name="Latitude">-27.4687447</SimpleData>
+					<SimpleData name="Longitude">153.1244258</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">3000</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">1 - 0</SimpleData>
+					<SimpleData name="Notes">Part of Brisbane training camp</SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First inter-state match.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>153.1244258,-27.4687447,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">6</SimpleData>
+					<SimpleData name="Weekday">Friday</SimpleData>
+					<SimpleData name="Date">31 August 2012</SimpleData>
+					<SimpleData name="Day">31</SimpleData>
+					<SimpleData name="Month">August</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">19:00</SimpleData>
+					<SimpleData name="Opponent">Melbourne Heart</SimpleData>
+					<SimpleData name="Opponent_State_Country">VIC</SimpleData>
+					<SimpleData name="Competition">Friendly</SimpleData>
+					<SimpleData name="Round">Pre-season</SimpleData>
+					<SimpleData name="Venue">Oakes Oval</SimpleData>
+					<SimpleData name="Location">Lismore, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Oakes Oval, Lismore, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-28.81063892055317</SimpleData>
+					<SimpleData name="Longitude">153.281505397614</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">3300</SimpleData>
+					<SimpleData name="Match_Result">Loss</SimpleData>
+					<SimpleData name="Score___WSW_Opp">0 - 0</SimpleData>
+					<SimpleData name="Notes">0 -0 end of play. Loss 3 - 5 on penalties. Neutral venue. Craig Foster Cup.</SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First match against an A-League opponent. First penalty shootout. Craig Foster Cup runners-up.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>153.281505397614,-28.81063892055317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">7</SimpleData>
+					<SimpleData name="Weekday">Sunday</SimpleData>
+					<SimpleData name="Date">9 September 2012</SimpleData>
+					<SimpleData name="Day">9</SimpleData>
+					<SimpleData name="Month">September</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">19:00</SimpleData>
+					<SimpleData name="Opponent">Parramatta FC</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">Friendly</SimpleData>
+					<SimpleData name="Round">Pre-season</SimpleData>
+					<SimpleData name="Venue">Parramatta Stadium</SimpleData>
+					<SimpleData name="Location">Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Parramatta Stadium, Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.808151</SimpleData>
+					<SimpleData name="Longitude">150.999716</SimpleData>
+					<SimpleData name="Home_or_Away">Home</SimpleData>
+					<SimpleData name="Attendance">1063</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">1 - 0</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First home match at Parramatta Stadium.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.999716,-33.808151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">8</SimpleData>
+					<SimpleData name="Weekday">Saturday</SimpleData>
+					<SimpleData name="Date">15 September 2012</SimpleData>
+					<SimpleData name="Day">15</SimpleData>
+					<SimpleData name="Month">September</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">14:00</SimpleData>
+					<SimpleData name="Opponent">Newcastle Jets</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">Friendly</SimpleData>
+					<SimpleData name="Round">Pre-season</SimpleData>
+					<SimpleData name="Venue">Wanderers Oval</SimpleData>
+					<SimpleData name="Location">Broadmeadow, NSW,Australia</SimpleData>
+					<SimpleData name="Address">Wanderers Oval, Broadmeadow, NSW,Australia</SimpleData>
+					<SimpleData name="Latitude">-32.92044908080788</SimpleData>
+					<SimpleData name="Longitude">151.7310231317847</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">3000</SimpleData>
+					<SimpleData name="Match_Result">Draw</SimpleData>
+					<SimpleData name="Score___WSW_Opp">1 - 1</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First draw.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>151.7310231317847,-32.92044908080788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">9</SimpleData>
+					<SimpleData name="Weekday">Sunday</SimpleData>
+					<SimpleData name="Date">23 September 2012</SimpleData>
+					<SimpleData name="Day">23</SimpleData>
+					<SimpleData name="Month">September</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">14:30</SimpleData>
+					<SimpleData name="Opponent">Wellington Phoenix</SimpleData>
+					<SimpleData name="Opponent_State_Country">NZ</SimpleData>
+					<SimpleData name="Competition">Friendly</SimpleData>
+					<SimpleData name="Round">Pre-season</SimpleData>
+					<SimpleData name="Venue">Lancaster Park</SimpleData>
+					<SimpleData name="Location">Christchurch, New Zealand</SimpleData>
+					<SimpleData name="Address">Lancaster Park, Christchurch, New Zealand</SimpleData>
+					<SimpleData name="Latitude">-43.54194906091301</SimpleData>
+					<SimpleData name="Longitude">172.6540112816092</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">6500</SimpleData>
+					<SimpleData name="Match_Result">Draw</SimpleData>
+					<SimpleData name="Score___WSW_Opp">1 - 1</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First match played outside Australia. First match played in New Zealand.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>172.6540112816092,-43.54194906091301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">10</SimpleData>
+					<SimpleData name="Weekday">Thursday</SimpleData>
+					<SimpleData name="Date">27 September 2012</SimpleData>
+					<SimpleData name="Day">27</SimpleData>
+					<SimpleData name="Month">September</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">19:30</SimpleData>
+					<SimpleData name="Opponent">Bankstown City Lions</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">Friendly</SimpleData>
+					<SimpleData name="Round">Pre-season</SimpleData>
+					<SimpleData name="Venue">Jensen Park</SimpleData>
+					<SimpleData name="Location">Sefton, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Jensen Park, Sefton, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.88344530000001</SimpleData>
+					<SimpleData name="Longitude">151.0176629999999</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">2000</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">3 - 0</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>151.0176629999999,-33.88344530000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">11</SimpleData>
+					<SimpleData name="Weekday">Saturday</SimpleData>
+					<SimpleData name="Date">6 October 2012</SimpleData>
+					<SimpleData name="Day">6</SimpleData>
+					<SimpleData name="Month">October</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">19:45</SimpleData>
+					<SimpleData name="Opponent">Central Coast Mariners</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">1</SimpleData>
+					<SimpleData name="Venue">Parramatta Stadium</SimpleData>
+					<SimpleData name="Location">Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Parramatta Stadium, Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.808151</SimpleData>
+					<SimpleData name="Longitude">150.999716</SimpleData>
+					<SimpleData name="Home_or_Away">Home</SimpleData>
+					<SimpleData name="Attendance">10458</SimpleData>
+					<SimpleData name="Match_Result">Draw</SimpleData>
+					<SimpleData name="Score___WSW_Opp">0 - 0</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First A-League Season match and home match, against the defending A-League Premiers. First competitive match, competitive draw and competition points. First match wearing the red and black hooped home jersey. Club enters A-League Season 8.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.999716,-33.808151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">12</SimpleData>
+					<SimpleData name="Weekday">Friday</SimpleData>
+					<SimpleData name="Date">12 October 2012</SimpleData>
+					<SimpleData name="Day">12</SimpleData>
+					<SimpleData name="Month">October</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">19:00</SimpleData>
+					<SimpleData name="Opponent">Adelaide United</SimpleData>
+					<SimpleData name="Opponent_State_Country">SA</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">2</SimpleData>
+					<SimpleData name="Venue">Hindmarsh Stadium</SimpleData>
+					<SimpleData name="Location">Adelaide, SA, Australia</SimpleData>
+					<SimpleData name="Address">Hindmarsh Stadium, Adelaide, SA, Australia</SimpleData>
+					<SimpleData name="Latitude">-34.907397</SimpleData>
+					<SimpleData name="Longitude">138.568919</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">8950</SimpleData>
+					<SimpleData name="Match_Result">Loss</SimpleData>
+					<SimpleData name="Score___WSW_Opp">0 - 1</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First A-League away match. First A-League Season loss. First competitive loss. First competitive goal conceded. First match wearing the red and white hooped away jersey.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.568919,-34.907397,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">13</SimpleData>
+					<SimpleData name="Weekday">Saturday</SimpleData>
+					<SimpleData name="Date">20 October 2012</SimpleData>
+					<SimpleData name="Day">20</SimpleData>
+					<SimpleData name="Month">October</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">19:45</SimpleData>
+					<SimpleData name="Opponent">Sydney FC</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">3</SimpleData>
+					<SimpleData name="Venue">Parramatta Stadium</SimpleData>
+					<SimpleData name="Location">Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Parramatta Stadium, Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.808151</SimpleData>
+					<SimpleData name="Longitude">150.999716</SimpleData>
+					<SimpleData name="Home_or_Away">Home</SimpleData>
+					<SimpleData name="Attendance">19126</SimpleData>
+					<SimpleData name="Match_Result">Loss</SimpleData>
+					<SimpleData name="Score___WSW_Opp">0 - 1</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First Sydney Derby. First Sydney Derby loss. First sold-out home match.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.999716,-33.808151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">14</SimpleData>
+					<SimpleData name="Weekday">Saturday</SimpleData>
+					<SimpleData name="Date">27 October 2012</SimpleData>
+					<SimpleData name="Day">27</SimpleData>
+					<SimpleData name="Month">October</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">18:45</SimpleData>
+					<SimpleData name="Opponent">Brisbane Roar</SimpleData>
+					<SimpleData name="Opponent_State_Country">QLD</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">4</SimpleData>
+					<SimpleData name="Venue">Lang Park</SimpleData>
+					<SimpleData name="Location">Brisbane, QLD, Australia</SimpleData>
+					<SimpleData name="Address">Lang Park, Brisbane, QLD, Australia</SimpleData>
+					<SimpleData name="Latitude">-27.464671</SimpleData>
+					<SimpleData name="Longitude">153.009539</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">12663</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">1 - 0</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First A-League Season win, against the defending A-League Champions. First competitive goal. First competitive win. First A-League Season away win.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>153.009539,-27.464671,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">15</SimpleData>
+					<SimpleData name="Weekday">Friday</SimpleData>
+					<SimpleData name="Date">2 November 2012</SimpleData>
+					<SimpleData name="Day">2</SimpleData>
+					<SimpleData name="Month">November</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">19:30</SimpleData>
+					<SimpleData name="Opponent">Melbourne Heart</SimpleData>
+					<SimpleData name="Opponent_State_Country">VIC</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">5</SimpleData>
+					<SimpleData name="Venue">Parramatta Stadium</SimpleData>
+					<SimpleData name="Location">Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Parramatta Stadium, Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.808151</SimpleData>
+					<SimpleData name="Longitude">150.999716</SimpleData>
+					<SimpleData name="Home_or_Away">Home</SimpleData>
+					<SimpleData name="Attendance">8075</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">2 - 1</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First A-League Season home win.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.999716,-33.808151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">16</SimpleData>
+					<SimpleData name="Weekday">Tuesday</SimpleData>
+					<SimpleData name="Date">6 November 2012</SimpleData>
+					<SimpleData name="Day">6</SimpleData>
+					<SimpleData name="Month">November</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">14:00</SimpleData>
+					<SimpleData name="Opponent">Sydney FC</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">Friendly</SimpleData>
+					<SimpleData name="Round">Mid-season</SimpleData>
+					<SimpleData name="Venue">Winter Field, Macquarie University</SimpleData>
+					<SimpleData name="Location">Macquarie Park, NSW,Australia</SimpleData>
+					<SimpleData name="Address">Winter Field, Macquarie University, Macquarie Park, NSW,Australia</SimpleData>
+					<SimpleData name="Latitude">-33.76439936447449</SimpleData>
+					<SimpleData name="Longitude">151.1174258859175</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">0</SimpleData>
+					<SimpleData name="Match_Result">Loss</SimpleData>
+					<SimpleData name="Score___WSW_Opp">0 - 1</SimpleData>
+					<SimpleData name="Notes">Held behind closed doors.</SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>151.1174258859175,-33.76439936447449,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">17</SimpleData>
+					<SimpleData name="Weekday">Saturday</SimpleData>
+					<SimpleData name="Date">10 November 2012</SimpleData>
+					<SimpleData name="Day">10</SimpleData>
+					<SimpleData name="Month">November</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">17:30</SimpleData>
+					<SimpleData name="Opponent">Newcastle Jets</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">6</SimpleData>
+					<SimpleData name="Venue">Parramatta Stadium</SimpleData>
+					<SimpleData name="Location">Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Parramatta Stadium, Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.808151</SimpleData>
+					<SimpleData name="Longitude">150.999716</SimpleData>
+					<SimpleData name="Home_or_Away">Home</SimpleData>
+					<SimpleData name="Attendance">9011</SimpleData>
+					<SimpleData name="Match_Result">Loss</SimpleData>
+					<SimpleData name="Score___WSW_Opp">1 - 2</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.999716,-33.808151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">18</SimpleData>
+					<SimpleData name="Weekday">Sunday</SimpleData>
+					<SimpleData name="Date">18 November 2012</SimpleData>
+					<SimpleData name="Day">18</SimpleData>
+					<SimpleData name="Month">November</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">14:00</SimpleData>
+					<SimpleData name="Opponent">Perth Glory</SimpleData>
+					<SimpleData name="Opponent_State_Country">WA</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">7</SimpleData>
+					<SimpleData name="Venue">Perth Oval</SimpleData>
+					<SimpleData name="Location">Perth, WA, Australia</SimpleData>
+					<SimpleData name="Address">Perth Oval, Perth, WA, Australia</SimpleData>
+					<SimpleData name="Latitude">-31.94570032382918</SimpleData>
+					<SimpleData name="Longitude">115.8699480008372</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">9060</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">1 - 0</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>115.8699480008372,-31.94570032382918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">19</SimpleData>
+					<SimpleData name="Weekday">Saturday</SimpleData>
+					<SimpleData name="Date">24 November 2012</SimpleData>
+					<SimpleData name="Day">24</SimpleData>
+					<SimpleData name="Month">November</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">19:45</SimpleData>
+					<SimpleData name="Opponent">Melbourne Victory</SimpleData>
+					<SimpleData name="Opponent_State_Country">VIC</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">8</SimpleData>
+					<SimpleData name="Venue">Parramatta Stadium</SimpleData>
+					<SimpleData name="Location">Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Parramatta Stadium, Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.808151</SimpleData>
+					<SimpleData name="Longitude">150.999716</SimpleData>
+					<SimpleData name="Home_or_Away">Home</SimpleData>
+					<SimpleData name="Attendance">9614</SimpleData>
+					<SimpleData name="Match_Result">Loss</SimpleData>
+					<SimpleData name="Score___WSW_Opp">0 - 2</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.999716,-33.808151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">20</SimpleData>
+					<SimpleData name="Weekday">Sunday</SimpleData>
+					<SimpleData name="Date">2 December 2012</SimpleData>
+					<SimpleData name="Day">2</SimpleData>
+					<SimpleData name="Month">December</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">16:30</SimpleData>
+					<SimpleData name="Opponent">Wellington Phoenix</SimpleData>
+					<SimpleData name="Opponent_State_Country">NZ</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">9</SimpleData>
+					<SimpleData name="Venue">Wellington Regional Stadium</SimpleData>
+					<SimpleData name="Location">Wellington, New Zealand</SimpleData>
+					<SimpleData name="Address">Wellington Regional Stadium, Wellington, New Zealand</SimpleData>
+					<SimpleData name="Latitude">-41.273072</SimpleData>
+					<SimpleData name="Longitude">174.786006</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">5045</SimpleData>
+					<SimpleData name="Match_Result">Loss</SimpleData>
+					<SimpleData name="Score___WSW_Opp">0 - 1</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>174.786006,-41.273072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">21</SimpleData>
+					<SimpleData name="Weekday">Sunday</SimpleData>
+					<SimpleData name="Date">9 December 2012</SimpleData>
+					<SimpleData name="Day">9</SimpleData>
+					<SimpleData name="Month">December</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">17:00</SimpleData>
+					<SimpleData name="Opponent">Brisbane Roar</SimpleData>
+					<SimpleData name="Opponent_State_Country">QLD</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">10</SimpleData>
+					<SimpleData name="Venue">Parramatta Stadium</SimpleData>
+					<SimpleData name="Location">Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Parramatta Stadium, Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.808151</SimpleData>
+					<SimpleData name="Longitude">150.999716</SimpleData>
+					<SimpleData name="Home_or_Away">Home</SimpleData>
+					<SimpleData name="Attendance">6755</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">1 - 0</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.999716,-33.808151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">22</SimpleData>
+					<SimpleData name="Weekday">Saturday</SimpleData>
+					<SimpleData name="Date">15 December 2012</SimpleData>
+					<SimpleData name="Day">15</SimpleData>
+					<SimpleData name="Month">December</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">19:45</SimpleData>
+					<SimpleData name="Opponent">Sydney FC</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">11</SimpleData>
+					<SimpleData name="Venue">Sydney Football Stadium</SimpleData>
+					<SimpleData name="Location">Moore Park, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Sydney Football Stadium, Moore Park, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.889164</SimpleData>
+					<SimpleData name="Longitude">151.225455</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">26176</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">2 - 0</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First Sydney Derby win. First Sydney Derby away win.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>151.225455,-33.889164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">23</SimpleData>
+					<SimpleData name="Weekday">Friday</SimpleData>
+					<SimpleData name="Date">21 December 2012</SimpleData>
+					<SimpleData name="Day">21</SimpleData>
+					<SimpleData name="Month">December</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">19:00</SimpleData>
+					<SimpleData name="Opponent">Adelaide United</SimpleData>
+					<SimpleData name="Opponent_State_Country">SA</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">12</SimpleData>
+					<SimpleData name="Venue">Parramatta Stadium</SimpleData>
+					<SimpleData name="Location">Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Parramatta Stadium, Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.808151</SimpleData>
+					<SimpleData name="Longitude">150.999716</SimpleData>
+					<SimpleData name="Home_or_Away">Home</SimpleData>
+					<SimpleData name="Attendance">9056</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">6 - 1</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First win by margin of 5 goals in a competitive game.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.999716,-33.808151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">24</SimpleData>
+					<SimpleData name="Weekday">Thursday</SimpleData>
+					<SimpleData name="Date">27 December 2012</SimpleData>
+					<SimpleData name="Day">27</SimpleData>
+					<SimpleData name="Month">December</SimpleData>
+					<SimpleData name="Year">2012</SimpleData>
+					<SimpleData name="Local_Time">18:45</SimpleData>
+					<SimpleData name="Opponent">Perth Glory</SimpleData>
+					<SimpleData name="Opponent_State_Country">WA</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">13</SimpleData>
+					<SimpleData name="Venue">Subiaco Oval</SimpleData>
+					<SimpleData name="Location">Perth, WA, Australia</SimpleData>
+					<SimpleData name="Address">Subiaco Oval, Perth, WA, Australia</SimpleData>
+					<SimpleData name="Latitude">-31.94449997318403</SimpleData>
+					<SimpleData name="Longitude">115.8300889875841</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">9236</SimpleData>
+					<SimpleData name="Match_Result">Draw</SimpleData>
+					<SimpleData name="Score___WSW_Opp">1 - 1</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>115.8300889875841,-31.94449997318403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">25</SimpleData>
+					<SimpleData name="Weekday">Tuesday</SimpleData>
+					<SimpleData name="Date">1 January 2013</SimpleData>
+					<SimpleData name="Day">1</SimpleData>
+					<SimpleData name="Month">January</SimpleData>
+					<SimpleData name="Year">2013</SimpleData>
+					<SimpleData name="Local_Time">18:15</SimpleData>
+					<SimpleData name="Opponent">Melbourne Victory</SimpleData>
+					<SimpleData name="Opponent_State_Country">VIC</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">14</SimpleData>
+					<SimpleData name="Venue">Parramatta Stadium</SimpleData>
+					<SimpleData name="Location">Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Parramatta Stadium, Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.808151</SimpleData>
+					<SimpleData name="Longitude">150.999716</SimpleData>
+					<SimpleData name="Home_or_Away">Home</SimpleData>
+					<SimpleData name="Attendance">13659</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">2 - 1</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First win and first home win against Melbourne Victory.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.999716,-33.808151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">26</SimpleData>
+					<SimpleData name="Weekday">Sunday</SimpleData>
+					<SimpleData name="Date">6 January 2013</SimpleData>
+					<SimpleData name="Day">6</SimpleData>
+					<SimpleData name="Month">January</SimpleData>
+					<SimpleData name="Year">2013</SimpleData>
+					<SimpleData name="Local_Time">18:00</SimpleData>
+					<SimpleData name="Opponent">Central Coast Mariners</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">15</SimpleData>
+					<SimpleData name="Venue">Parramatta Stadium</SimpleData>
+					<SimpleData name="Location">Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Parramatta Stadium, Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.808151</SimpleData>
+					<SimpleData name="Longitude">150.999716</SimpleData>
+					<SimpleData name="Home_or_Away">Home</SimpleData>
+					<SimpleData name="Attendance">16387</SimpleData>
+					<SimpleData name="Match_Result">Loss</SimpleData>
+					<SimpleData name="Score___WSW_Opp">0 - 2</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.999716,-33.808151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">27</SimpleData>
+					<SimpleData name="Weekday">Sunday</SimpleData>
+					<SimpleData name="Date">13 January 2013</SimpleData>
+					<SimpleData name="Day">13</SimpleData>
+					<SimpleData name="Month">January</SimpleData>
+					<SimpleData name="Year">2013</SimpleData>
+					<SimpleData name="Local_Time">16:30</SimpleData>
+					<SimpleData name="Opponent">Wellington Phoenix</SimpleData>
+					<SimpleData name="Opponent_State_Country">NZ</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">16</SimpleData>
+					<SimpleData name="Venue">Wellington Regional Stadium</SimpleData>
+					<SimpleData name="Location">Wellington, New Zealand</SimpleData>
+					<SimpleData name="Address">Wellington Regional Stadium, Wellington, New Zealand</SimpleData>
+					<SimpleData name="Latitude">-41.273072</SimpleData>
+					<SimpleData name="Longitude">174.786006</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">6608</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">2 - 0</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>174.786006,-41.273072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">28</SimpleData>
+					<SimpleData name="Weekday">Sunday</SimpleData>
+					<SimpleData name="Date">20 January 2013</SimpleData>
+					<SimpleData name="Day">20</SimpleData>
+					<SimpleData name="Month">January</SimpleData>
+					<SimpleData name="Year">2013</SimpleData>
+					<SimpleData name="Local_Time">17:00</SimpleData>
+					<SimpleData name="Opponent">Brisbane Roar</SimpleData>
+					<SimpleData name="Opponent_State_Country">QLD</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">17</SimpleData>
+					<SimpleData name="Venue">Lang Park</SimpleData>
+					<SimpleData name="Location">Brisbane, QLD, Australia</SimpleData>
+					<SimpleData name="Address">Lang Park, Brisbane, QLD, Australia</SimpleData>
+					<SimpleData name="Latitude">-27.464671</SimpleData>
+					<SimpleData name="Longitude">153.009539</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">11917</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">2 - 1</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>153.009539,-27.464671,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">29</SimpleData>
+					<SimpleData name="Weekday">Saturday</SimpleData>
+					<SimpleData name="Date">26 January 2013</SimpleData>
+					<SimpleData name="Day">26</SimpleData>
+					<SimpleData name="Month">January</SimpleData>
+					<SimpleData name="Year">2013</SimpleData>
+					<SimpleData name="Local_Time">19:45</SimpleData>
+					<SimpleData name="Opponent">Melbourne Heart</SimpleData>
+					<SimpleData name="Opponent_State_Country">VIC</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">18</SimpleData>
+					<SimpleData name="Venue">Parramatta Stadium</SimpleData>
+					<SimpleData name="Location">Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Parramatta Stadium, Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.808151</SimpleData>
+					<SimpleData name="Longitude">150.999716</SimpleData>
+					<SimpleData name="Home_or_Away">Home</SimpleData>
+					<SimpleData name="Attendance">14624</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">1 - 0</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.999716,-33.808151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">30</SimpleData>
+					<SimpleData name="Weekday">Sunday</SimpleData>
+					<SimpleData name="Date">3 February 2013</SimpleData>
+					<SimpleData name="Day">3</SimpleData>
+					<SimpleData name="Month">February</SimpleData>
+					<SimpleData name="Year">2013</SimpleData>
+					<SimpleData name="Local_Time">16:30</SimpleData>
+					<SimpleData name="Opponent">Adelaide United</SimpleData>
+					<SimpleData name="Opponent_State_Country">SA</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">19</SimpleData>
+					<SimpleData name="Venue">Hindmarsh Stadium</SimpleData>
+					<SimpleData name="Location">Adelaide, SA, Australia</SimpleData>
+					<SimpleData name="Address">Hindmarsh Stadium, Adelaide, SA, Australia</SimpleData>
+					<SimpleData name="Latitude">-34.907397</SimpleData>
+					<SimpleData name="Longitude">138.568919</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">9686</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">4 - 2</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.568919,-34.907397,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">31</SimpleData>
+					<SimpleData name="Weekday">Saturday</SimpleData>
+					<SimpleData name="Date">9 February 2013</SimpleData>
+					<SimpleData name="Day">9</SimpleData>
+					<SimpleData name="Month">February</SimpleData>
+					<SimpleData name="Year">2013</SimpleData>
+					<SimpleData name="Local_Time">19:45</SimpleData>
+					<SimpleData name="Opponent">Newcastle Jets</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">20</SimpleData>
+					<SimpleData name="Venue">Campbelltown Stadium</SimpleData>
+					<SimpleData name="Location">Campbelltown, NSW,Australia</SimpleData>
+					<SimpleData name="Address">Campbelltown Stadium, Campbelltown, NSW,Australia</SimpleData>
+					<SimpleData name="Latitude">-34.05037201711929</SimpleData>
+					<SimpleData name="Longitude">150.8337295806845</SimpleData>
+					<SimpleData name="Home_or_Away">Home</SimpleData>
+					<SimpleData name="Attendance">10589</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">2 - 1</SimpleData>
+					<SimpleData name="Notes">Community round. Neutral venue.</SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.8337295806845,-34.05037201711929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">32</SimpleData>
+					<SimpleData name="Weekday">Saturday</SimpleData>
+					<SimpleData name="Date">16 February 2013</SimpleData>
+					<SimpleData name="Day">16</SimpleData>
+					<SimpleData name="Month">February</SimpleData>
+					<SimpleData name="Year">2013</SimpleData>
+					<SimpleData name="Local_Time">19:45</SimpleData>
+					<SimpleData name="Opponent">Melbourne Victory</SimpleData>
+					<SimpleData name="Opponent_State_Country">VIC</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">21</SimpleData>
+					<SimpleData name="Venue">Melbourne Rectangular Stadium</SimpleData>
+					<SimpleData name="Location">Melbourne, VIC, Australia</SimpleData>
+					<SimpleData name="Address">Melbourne Rectangular Stadium, Melbourne, VIC, Australia</SimpleData>
+					<SimpleData name="Latitude">-37.825067</SimpleData>
+					<SimpleData name="Longitude">144.983964</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">21638</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">2 - 1</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First away win against Melbourne Victory.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>144.983964,-37.825067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">33</SimpleData>
+					<SimpleData name="Weekday">Saturday</SimpleData>
+					<SimpleData name="Date">23 February 2013</SimpleData>
+					<SimpleData name="Day">23</SimpleData>
+					<SimpleData name="Month">February</SimpleData>
+					<SimpleData name="Year">2013</SimpleData>
+					<SimpleData name="Local_Time">17:30</SimpleData>
+					<SimpleData name="Opponent">Perth Glory</SimpleData>
+					<SimpleData name="Opponent_State_Country">WA</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">22</SimpleData>
+					<SimpleData name="Venue">Parramatta Stadium</SimpleData>
+					<SimpleData name="Location">Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Parramatta Stadium, Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.808151</SimpleData>
+					<SimpleData name="Longitude">150.999716</SimpleData>
+					<SimpleData name="Home_or_Away">Home</SimpleData>
+					<SimpleData name="Attendance">11772</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">1 - 0</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.999716,-33.808151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">34</SimpleData>
+					<SimpleData name="Weekday">Saturday</SimpleData>
+					<SimpleData name="Date">2 March 2013</SimpleData>
+					<SimpleData name="Day">2</SimpleData>
+					<SimpleData name="Month">March</SimpleData>
+					<SimpleData name="Year">2013</SimpleData>
+					<SimpleData name="Local_Time">19:45</SimpleData>
+					<SimpleData name="Opponent">Central Coast Mariners</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">23</SimpleData>
+					<SimpleData name="Venue">Central Coast Stadium</SimpleData>
+					<SimpleData name="Location">Gosford, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Central Coast Stadium, Gosford, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.42828895713087</SimpleData>
+					<SimpleData name="Longitude">151.3381398470787</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">18721</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">1 - 0</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">The match win sees the club leapfrog Central Coast Mariners to reach 1st place on A-League Season ladder. The club beats every A-League opponent in its inaugural A-League Season.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>151.3381398470787,-33.42828895713087,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">35</SimpleData>
+					<SimpleData name="Weekday">Sunday</SimpleData>
+					<SimpleData name="Date">10 March 2013</SimpleData>
+					<SimpleData name="Day">10</SimpleData>
+					<SimpleData name="Month">March</SimpleData>
+					<SimpleData name="Year">2013</SimpleData>
+					<SimpleData name="Local_Time">17:00</SimpleData>
+					<SimpleData name="Opponent">Wellington Phoenix</SimpleData>
+					<SimpleData name="Opponent_State_Country">NZ</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">24</SimpleData>
+					<SimpleData name="Venue">Parramatta Stadium</SimpleData>
+					<SimpleData name="Location">Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Parramatta Stadium, Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.808151</SimpleData>
+					<SimpleData name="Longitude">150.999716</SimpleData>
+					<SimpleData name="Home_or_Away">Home</SimpleData>
+					<SimpleData name="Attendance">15809</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">2 - 1</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.999716,-33.808151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">36</SimpleData>
+					<SimpleData name="Weekday">Saturday</SimpleData>
+					<SimpleData name="Date">16 March 2013</SimpleData>
+					<SimpleData name="Day">16</SimpleData>
+					<SimpleData name="Month">March</SimpleData>
+					<SimpleData name="Year">2013</SimpleData>
+					<SimpleData name="Local_Time">17:30</SimpleData>
+					<SimpleData name="Opponent">Melbourne Heart</SimpleData>
+					<SimpleData name="Opponent_State_Country">VIC</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">25</SimpleData>
+					<SimpleData name="Venue">Melbourne Rectangular Stadium</SimpleData>
+					<SimpleData name="Location">Melbourne, VIC, Australia</SimpleData>
+					<SimpleData name="Address">Melbourne Rectangular Stadium, Melbourne, VIC, Australia</SimpleData>
+					<SimpleData name="Latitude">-37.825067</SimpleData>
+					<SimpleData name="Longitude">144.983964</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">6101</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">3 - 2</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">Club achieves an Australian record 10 league wins in a row.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>144.983964,-37.825067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">37</SimpleData>
+					<SimpleData name="Weekday">Saturday</SimpleData>
+					<SimpleData name="Date">23 March 2013</SimpleData>
+					<SimpleData name="Day">23</SimpleData>
+					<SimpleData name="Month">March</SimpleData>
+					<SimpleData name="Year">2013</SimpleData>
+					<SimpleData name="Local_Time">19:45</SimpleData>
+					<SimpleData name="Opponent">Sydney FC</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">26</SimpleData>
+					<SimpleData name="Venue">Parramatta Stadium</SimpleData>
+					<SimpleData name="Location">Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Parramatta Stadium, Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.808151</SimpleData>
+					<SimpleData name="Longitude">150.999716</SimpleData>
+					<SimpleData name="Home_or_Away">Home</SimpleData>
+					<SimpleData name="Attendance">19585</SimpleData>
+					<SimpleData name="Match_Result">Draw</SimpleData>
+					<SimpleData name="Score___WSW_Opp">1 - 1</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First Sydney Derby draw. Record A-League Western Sydney Wanderers home match attendance at Parramatta Stadium.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.999716,-33.808151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">38</SimpleData>
+					<SimpleData name="Weekday">Friday</SimpleData>
+					<SimpleData name="Date">29 March 2013</SimpleData>
+					<SimpleData name="Day">29</SimpleData>
+					<SimpleData name="Month">March</SimpleData>
+					<SimpleData name="Year">2013</SimpleData>
+					<SimpleData name="Local_Time">17:30</SimpleData>
+					<SimpleData name="Opponent">Newcastle Jets</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">A-League Season 2012/13</SimpleData>
+					<SimpleData name="Round">27</SimpleData>
+					<SimpleData name="Venue">Newcastle International Sports Centre</SimpleData>
+					<SimpleData name="Location">Newcastle, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Newcastle International Sports Centre, Newcastle, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-32.91879820046429</SimpleData>
+					<SimpleData name="Longitude">151.7264173707682</SimpleData>
+					<SimpleData name="Home_or_Away">Away</SimpleData>
+					<SimpleData name="Attendance">22518</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">3 - 0</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">Club crowned A-League Premiers 2012-13 (1st place on A-League Season ladder) in its inaugural season and claims its first silverware. Club secures AFC Champions League 2014 qualification and qualifies for A-League Finals.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>151.7264173707682,-32.91879820046429,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">39</SimpleData>
+					<SimpleData name="Weekday">Friday</SimpleData>
+					<SimpleData name="Date">12 April 2013</SimpleData>
+					<SimpleData name="Day">12</SimpleData>
+					<SimpleData name="Month">April</SimpleData>
+					<SimpleData name="Year">2013</SimpleData>
+					<SimpleData name="Local_Time">19:30</SimpleData>
+					<SimpleData name="Opponent">Brisbane Roar</SimpleData>
+					<SimpleData name="Opponent_State_Country">QLD</SimpleData>
+					<SimpleData name="Competition">A-League Finals 2012/13</SimpleData>
+					<SimpleData name="Round">Semi Final</SimpleData>
+					<SimpleData name="Venue">Parramatta Stadium</SimpleData>
+					<SimpleData name="Location">Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Parramatta Stadium, Parramatta, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.808151</SimpleData>
+					<SimpleData name="Longitude">150.999716</SimpleData>
+					<SimpleData name="Home_or_Away">Home</SimpleData>
+					<SimpleData name="Attendance">19369</SimpleData>
+					<SimpleData name="Match_Result">Win</SimpleData>
+					<SimpleData name="Score___WSW_Opp">2 - 0</SimpleData>
+					<SimpleData name="Notes"></SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First A-League Finals match. First A-League Finals win. Club progresses to Grand Final. First A-League Finals goal. First match at home as A-League Premiers. Club beats the defending A-League Champions 4 times in its inaugural A-League Season.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.999716,-33.808151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_wsw_season1_latlon_ISSISISSSSSSSSDDSISSSS">
+					<SimpleData name="Match_Number">40</SimpleData>
+					<SimpleData name="Weekday">Sunday</SimpleData>
+					<SimpleData name="Date">21 April 2013</SimpleData>
+					<SimpleData name="Day">21</SimpleData>
+					<SimpleData name="Month">April</SimpleData>
+					<SimpleData name="Year">2013</SimpleData>
+					<SimpleData name="Local_Time">16:00</SimpleData>
+					<SimpleData name="Opponent">Central Coast Mariners</SimpleData>
+					<SimpleData name="Opponent_State_Country">NSW</SimpleData>
+					<SimpleData name="Competition">A-League Finals 2012/13</SimpleData>
+					<SimpleData name="Round">Grand Final</SimpleData>
+					<SimpleData name="Venue">Sydney Football Stadium</SimpleData>
+					<SimpleData name="Location">Moore Park, NSW, Australia</SimpleData>
+					<SimpleData name="Address">Sydney Football Stadium, Moore Park, NSW, Australia</SimpleData>
+					<SimpleData name="Latitude">-33.889164</SimpleData>
+					<SimpleData name="Longitude">151.225455</SimpleData>
+					<SimpleData name="Home_or_Away">Home</SimpleData>
+					<SimpleData name="Attendance">42102</SimpleData>
+					<SimpleData name="Match_Result">Loss</SimpleData>
+					<SimpleData name="Score___WSW_Opp">0 - 2</SimpleData>
+					<SimpleData name="Notes">Venue changed by FFA.</SimpleData>
+					<SimpleData name="Club_Achievements__Milestones_and_Records">First A-League Grand Final, in the club&apos;s inaugural season. A-League Champions runners-up. First A-League Finals loss. Record attendance for a Western Sydney Wanderers home match. Record Australian club football crowd at venue.</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>151.225455,-33.889164,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
