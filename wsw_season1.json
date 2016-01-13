@@ -1,1 +1,1405 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[150.7675584,-33.7756312]},"properties":{"Match Number":"1","Weekday":"Wednesday","Date":"25 July 2012","Day":"25","Month":"July","Year":"2012","Local Time":"19:30","Opponent":"Nepean FC ","Opponent State/Country":"NSW","Competition":"Friendly","Round":"Pre-season","Venue":"Cook Park","Location":"St Marys, NSW, Australia","Address":"Cook Park, St Marys, NSW, Australia","Home or Away":"Away","Attendance":"3612","Match Result":"Win","Score - WSW-Opp":"5 - 0","Notes":"","Club Achievements, Milestones and Records":"First match. First goal. First win."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[150.8446712,-33.7712221]},"properties":{"Match Number":"2","Weekday":"Wednesday","Date":"1 August 2012","Day":"1","Month":"August","Year":"2012","Local Time":"19:30","Opponent":"Blacktown Spartans ","Opponent State/Country":"NSW","Competition":"Friendly","Round":"Pre-season","Venue":"Athletics Centre, Blacktown International Sportspark","Location":"Rooty Hill, NSW, Australia","Address":"Athletics Centre, Blacktown International Sportspark, Rooty Hill, NSW, Australia","Home or Away":"Away","Attendance":"4116","Match Result":"Win","Score - WSW-Opp":"2 - 0","Notes":"","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[150.9323148,-33.7762275]},"properties":{"Match Number":"3","Weekday":"Wednesday","Date":"8 August 2012","Day":"8","Month":"August","Year":"2012","Local Time":"19:00","Opponent":"Blacktown City ","Opponent State/Country":"NSW","Competition":"Friendly","Round":"Pre-season","Venue":"Gabbie Stadium","Location":"Seven Hills, NSW, Australia","Address":"Gabbie Stadium, Seven Hills, NSW, Australia","Home or Away":"Away","Attendance":"3472","Match Result":"Win","Score - WSW-Opp":"2 - 0","Notes":"","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[150.8753515,-33.8771317]},"properties":{"Match Number":"4","Weekday":"Wednesday","Date":"22 August 2012","Day":"22","Month":"August","Year":"2012","Local Time":"19:30","Opponent":"Sydney United ","Opponent State/Country":"NSW","Competition":"Friendly","Round":"Pre-season","Venue":"Edensor Park","Location":"Edensor Park, NSW, Australia","Address":"Edensor Park, Edensor Park, NSW, Australia","Home or Away":"Away","Attendance":"3234","Match Result":"Loss","Score - WSW-Opp":"1 - 2","Notes":"","Club Achievements, Milestones and Records":"First loss. First goal conceded."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[153.1244258,-27.4687447]},"properties":{"Match Number":"5","Weekday":"Tuesday","Date":"28 August 2012","Day":"28","Month":"August","Year":"2012","Local Time":"19:30","Opponent":"Wynnum Wolves ","Opponent State/Country":"QLD","Competition":"Friendly","Round":"Pre-season","Venue":"Carmichael Park","Location":"Tingalpa, QLD, Australia","Address":"Carmichael Park, Tingalpa, QLD, Australia","Home or Away":"Away","Attendance":"3000","Match Result":"Win","Score - WSW-Opp":"1 - 0","Notes":"Part of Brisbane training camp","Club Achievements, Milestones and Records":"First inter-state match."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[153.2802196,-28.8108509]},"properties":{"Match Number":"6","Weekday":"Friday","Date":"31 August 2012","Day":"31","Month":"August","Year":"2012","Local Time":"19:00","Opponent":"Melbourne Heart","Opponent State/Country":"VIC","Competition":"Friendly","Round":"Pre-season","Venue":"Oakes Oval","Location":"Lismore, NSW, Australia","Address":"Oakes Oval, Lismore, NSW, Australia","Home or Away":"Away","Attendance":"3300","Match Result":"Loss","Score - WSW-Opp":"0 - 0","Notes":"0 -0 end of play. Loss 3 - 5 on penalties. Neutral venue. Craig Foster Cup.","Club Achievements, Milestones and Records":"First match against an A-League opponent. First penalty shootout. Craig Foster Cup runners-up."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.0011047,-33.8096349]},"properties":{"Match Number":"7","Weekday":"Sunday","Date":"9 September 2012","Day":"9","Month":"September","Year":"2012","Local Time":"19:00","Opponent":"Parramatta FC ","Opponent State/Country":"NSW","Competition":"Friendly","Round":"Pre-season","Venue":"Parramatta Stadium","Location":"Parramatta, NSW, Australia","Address":"Parramatta Stadium, Parramatta, NSW, Australia","Home or Away":"Home","Attendance":"1063","Match Result":"Win","Score - WSW-Opp":"1 - 0","Notes":"","Club Achievements, Milestones and Records":"First home match at Parramatta Stadium."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.729021,-32.9236287]},"properties":{"Match Number":"8","Weekday":"Saturday","Date":"15 September 2012","Day":"15","Month":"September","Year":"2012","Local Time":"14:00","Opponent":"Newcastle Jets","Opponent State/Country":"NSW","Competition":"Friendly","Round":"Pre-season","Venue":"Wanderers Oval","Location":"Broadmeadow, NSW,\nAustralia","Address":"Wanderers Oval, Broadmeadow, NSW,\nAustralia","Home or Away":"Away","Attendance":"3000","Match Result":"Draw","Score - WSW-Opp":"1 - 1","Notes":"","Club Achievements, Milestones and Records":"First draw."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[172.6542861,-43.5399122]},"properties":{"Match Number":"9","Weekday":"Sunday","Date":"23 September 2012","Day":"23","Month":"September","Year":"2012","Local Time":"14:30","Opponent":"Wellington Phoenix","Opponent State/Country":"NZ","Competition":"Friendly","Round":"Pre-season","Venue":"Lancaster Park","Location":"Christchurch, New Zealand","Address":"Lancaster Park, Christchurch, New Zealand","Home or Away":"Away","Attendance":"6500","Match Result":"Draw","Score - WSW-Opp":"1 - 1","Notes":"","Club Achievements, Milestones and Records":"First match played outside Australia. First match played in New Zealand."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.017663,-33.8834453]},"properties":{"Match Number":"10","Weekday":"Thursday","Date":"27 September 2012","Day":"27","Month":"September","Year":"2012","Local Time":"19:30","Opponent":"Bankstown City Lions ","Opponent State/Country":"NSW","Competition":"Friendly","Round":"Pre-season","Venue":"Jensen Park","Location":"Sefton, NSW, Australia","Address":"Jensen Park, Sefton, NSW, Australia","Home or Away":"Away","Attendance":"2000","Match Result":"Win","Score - WSW-Opp":"3 - 0","Notes":"","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.0011047,-33.8096349]},"properties":{"Match Number":"11","Weekday":"Saturday","Date":"6 October 2012","Day":"6","Month":"October","Year":"2012","Local Time":"19:45","Opponent":"Central Coast Mariners","Opponent State/Country":"NSW","Competition":"A-League Season 2012/13","Round":"1","Venue":"Parramatta Stadium","Location":"Parramatta, NSW, Australia","Address":"Parramatta Stadium, Parramatta, NSW, Australia","Home or Away":"Home","Attendance":"10458","Match Result":"Draw","Score - WSW-Opp":"0 - 0","Notes":"","Club Achievements, Milestones and Records":"First A-League Season match and home match, against the defending A-League Premiers. First competitive match, competitive draw and competition points. First match wearing the red and black hooped home jersey. Club enters A-League Season 8."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[138.566961,-34.9368102]},"properties":{"Match Number":"12","Weekday":"Friday","Date":"12 October 2012","Day":"12","Month":"October","Year":"2012","Local Time":"19:00","Opponent":"Adelaide United","Opponent State/Country":"SA","Competition":"A-League Season 2012/13","Round":"2","Venue":"Hindmarsh Stadium","Location":"Adelaide, SA, Australia","Address":"Hindmarsh Stadium, Adelaide, SA, Australia","Home or Away":"Away","Attendance":"8950","Match Result":"Loss","Score - WSW-Opp":"0 - 1","Notes":"","Club Achievements, Milestones and Records":"First A-League away match. First A-League Season loss. First competitive loss. First competitive goal conceded. First match wearing the red and white hooped away jersey."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.0011047,-33.8096349]},"properties":{"Match Number":"13","Weekday":"Saturday","Date":"20 October 2012","Day":"20","Month":"October","Year":"2012","Local Time":"19:45","Opponent":"Sydney FC","Opponent State/Country":"NSW","Competition":"A-League Season 2012/13","Round":"3","Venue":"Parramatta Stadium","Location":"Parramatta, NSW, Australia","Address":"Parramatta Stadium, Parramatta, NSW, Australia","Home or Away":"Home","Attendance":"19126","Match Result":"Loss","Score - WSW-Opp":"0 - 1","Notes":"","Club Achievements, Milestones and Records":"First Sydney Derby. First Sydney Derby loss. First sold-out home match."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[152.986522,-27.3038231]},"properties":{"Match Number":"14","Weekday":"Saturday","Date":"27 October 2012","Day":"27","Month":"October","Year":"2012","Local Time":"18:45","Opponent":"Brisbane Roar","Opponent State/Country":"QLD","Competition":"A-League Season 2012/13","Round":"4","Venue":"Lang Park","Location":"Brisbane, QLD, Australia","Address":"Lang Park, Brisbane, QLD, Australia","Home or Away":"Away","Attendance":"12663","Match Result":"Win","Score - WSW-Opp":"1 - 0","Notes":"","Club Achievements, Milestones and Records":"First A-League Season win, against the defending A-League Champions. First competitive goal. First competitive win. First A-League Season away win."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.0011047,-33.8096349]},"properties":{"Match Number":"15","Weekday":"Friday","Date":"2 November 2012","Day":"2","Month":"November","Year":"2012","Local Time":"19:30","Opponent":"Melbourne Heart","Opponent State/Country":"VIC","Competition":"A-League Season 2012/13","Round":"5","Venue":"Parramatta Stadium","Location":"Parramatta, NSW, Australia","Address":"Parramatta Stadium, Parramatta, NSW, Australia","Home or Away":"Home","Attendance":"8075","Match Result":"Win","Score - WSW-Opp":"2 - 1","Notes":"","Club Achievements, Milestones and Records":"First A-League Season home win."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.1194285,-33.7758202]},"properties":{"Match Number":"16","Weekday":"Tuesday","Date":"6 November 2012","Day":"6","Month":"November","Year":"2012","Local Time":"14:00","Opponent":"Sydney FC","Opponent State/Country":"NSW","Competition":"Friendly","Round":"Mid-season","Venue":"Winter Field, Macquarie University","Location":"Macquarie Park, NSW,\nAustralia","Address":"Winter Field, Macquarie University, Macquarie Park, NSW,\nAustralia","Home or Away":"Away","Attendance":"","Match Result":"Loss","Score - WSW-Opp":"0 - 1","Notes":"Held behind closed doors.","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.0011047,-33.8096349]},"properties":{"Match Number":"17","Weekday":"Saturday","Date":"10 November 2012","Day":"10","Month":"November","Year":"2012","Local Time":"17:30","Opponent":"Newcastle Jets","Opponent State/Country":"NSW","Competition":"A-League Season 2012/13","Round":"6","Venue":"Parramatta Stadium","Location":"Parramatta, NSW, Australia","Address":"Parramatta Stadium, Parramatta, NSW, Australia","Home or Away":"Home","Attendance":"9011","Match Result":"Loss","Score - WSW-Opp":"1 - 2","Notes":"","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[115.8510126,-31.9698491]},"properties":{"Match Number":"18","Weekday":"Sunday","Date":"18 November 2012","Day":"18","Month":"November","Year":"2012","Local Time":"14:00","Opponent":"Perth Glory","Opponent State/Country":"WA","Competition":"A-League Season 2012/13","Round":"7","Venue":"Perth Oval","Location":"Perth, WA, Australia","Address":"Perth Oval, Perth, WA, Australia","Home or Away":"Away","Attendance":"9060","Match Result":"Win","Score - WSW-Opp":"1 - 0","Notes":"","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.0011047,-33.8096349]},"properties":{"Match Number":"19","Weekday":"Saturday","Date":"24 November 2012","Day":"24","Month":"November","Year":"2012","Local Time":"19:45","Opponent":"Melbourne Victory","Opponent State/Country":"VIC","Competition":"A-League Season 2012/13","Round":"8","Venue":"Parramatta Stadium","Location":"Parramatta, NSW, Australia","Address":"Parramatta Stadium, Parramatta, NSW, Australia","Home or Away":"Home","Attendance":"9614","Match Result":"Loss","Score - WSW-Opp":"0 - 2","Notes":"","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[174.776236,-41.2864603]},"properties":{"Match Number":"20","Weekday":"Sunday","Date":"2 December 2012","Day":"2","Month":"December","Year":"2012","Local Time":"16:30","Opponent":"Wellington Phoenix","Opponent State/Country":"NZ","Competition":"A-League Season 2012/13","Round":"9","Venue":"Wellington Regional Stadium","Location":"Wellington, New Zealand","Address":"Wellington Regional Stadium, Wellington, New Zealand","Home or Away":"Away","Attendance":"5045","Match Result":"Loss","Score - WSW-Opp":"0 - 1","Notes":"","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.0011047,-33.8096349]},"properties":{"Match Number":"21","Weekday":"Sunday","Date":"9 December 2012","Day":"9","Month":"December","Year":"2012","Local Time":"17:00","Opponent":"Brisbane Roar","Opponent State/Country":"QLD","Competition":"A-League Season 2012/13","Round":"10","Venue":"Parramatta Stadium","Location":"Parramatta, NSW, Australia","Address":"Parramatta Stadium, Parramatta, NSW, Australia","Home or Away":"Home","Attendance":"6755","Match Result":"Win","Score - WSW-Opp":"1 - 0","Notes":"","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.2152663,-33.9009291]},"properties":{"Match Number":"22","Weekday":"Saturday","Date":"15 December 2012","Day":"15","Month":"December","Year":"2012","Local Time":"19:45","Opponent":"Sydney FC","Opponent State/Country":"NSW","Competition":"A-League Season 2012/13","Round":"11","Venue":"Sydney Football Stadium","Location":"Moore Park, NSW, Australia","Address":"Sydney Football Stadium, Moore Park, NSW, Australia","Home or Away":"Away","Attendance":"26176","Match Result":"Win","Score - WSW-Opp":"2 - 0","Notes":"","Club Achievements, Milestones and Records":"First Sydney Derby win. First Sydney Derby away win."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.0011047,-33.8096349]},"properties":{"Match Number":"23","Weekday":"Friday","Date":"21 December 2012","Day":"21","Month":"December","Year":"2012","Local Time":"19:00","Opponent":"Adelaide United","Opponent State/Country":"SA","Competition":"A-League Season 2012/13","Round":"12","Venue":"Parramatta Stadium","Location":"Parramatta, NSW, Australia","Address":"Parramatta Stadium, Parramatta, NSW, Australia","Home or Away":"Home","Attendance":"9056","Match Result":"Win","Score - WSW-Opp":"6 - 1","Notes":"","Club Achievements, Milestones and Records":"First win by margin of 5 goals in a competitive game."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[115.833064,-31.943648]},"properties":{"Match Number":"24","Weekday":"Thursday","Date":"27 December 2012","Day":"27","Month":"December","Year":"2012","Local Time":"18:45","Opponent":"Perth Glory","Opponent State/Country":"WA","Competition":"A-League Season 2012/13","Round":"13","Venue":"Subiaco Oval","Location":"Perth, WA, Australia","Address":"Subiaco Oval, Perth, WA, Australia","Home or Away":"Away","Attendance":"9236","Match Result":"Draw","Score - WSW-Opp":"1 - 1","Notes":"","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.0011047,-33.8096349]},"properties":{"Match Number":"25","Weekday":"Tuesday","Date":"1 January 2013","Day":"1","Month":"January","Year":"2013","Local Time":"18:15","Opponent":"Melbourne Victory","Opponent State/Country":"VIC","Competition":"A-League Season 2012/13","Round":"14","Venue":"Parramatta Stadium","Location":"Parramatta, NSW, Australia","Address":"Parramatta Stadium, Parramatta, NSW, Australia","Home or Away":"Home","Attendance":"13659","Match Result":"Win","Score - WSW-Opp":"2 - 1","Notes":"","Club Achievements, Milestones and Records":"First win and first home win against Melbourne Victory."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.0011047,-33.8096349]},"properties":{"Match Number":"26","Weekday":"Sunday","Date":"6 January 2013","Day":"6","Month":"January","Year":"2013","Local Time":"18:00","Opponent":"Central Coast Mariners","Opponent State/Country":"NSW","Competition":"A-League Season 2012/13","Round":"15","Venue":"Parramatta Stadium","Location":"Parramatta, NSW, Australia","Address":"Parramatta Stadium, Parramatta, NSW, Australia","Home or Away":"Home","Attendance":"16387","Match Result":"Loss","Score - WSW-Opp":"0 - 2","Notes":"","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[174.776236,-41.2864603]},"properties":{"Match Number":"27","Weekday":"Sunday","Date":"13 January 2013","Day":"13","Month":"January","Year":"2013","Local Time":"16:30","Opponent":"Wellington Phoenix","Opponent State/Country":"NZ","Competition":"A-League Season 2012/13","Round":"16","Venue":"Wellington Regional Stadium","Location":"Wellington, New Zealand","Address":"Wellington Regional Stadium, Wellington, New Zealand","Home or Away":"Away","Attendance":"6608","Match Result":"Win","Score - WSW-Opp":"2 - 0","Notes":"","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[152.986522,-27.3038231]},"properties":{"Match Number":"28","Weekday":"Sunday","Date":"20 January 2013","Day":"20","Month":"January","Year":"2013","Local Time":"17:00","Opponent":"Brisbane Roar","Opponent State/Country":"QLD","Competition":"A-League Season 2012/13","Round":"17","Venue":"Lang Park","Location":"Brisbane, QLD, Australia","Address":"Lang Park, Brisbane, QLD, Australia","Home or Away":"Away","Attendance":"11917","Match Result":"Win","Score - WSW-Opp":"2 - 1","Notes":"","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.0011047,-33.8096349]},"properties":{"Match Number":"29","Weekday":"Saturday","Date":"26 January 2013","Day":"26","Month":"January","Year":"2013","Local Time":"19:45","Opponent":"Melbourne Heart","Opponent State/Country":"VIC","Competition":"A-League Season 2012/13","Round":"18","Venue":"Parramatta Stadium","Location":"Parramatta, NSW, Australia","Address":"Parramatta Stadium, Parramatta, NSW, Australia","Home or Away":"Home","Attendance":"14624","Match Result":"Win","Score - WSW-Opp":"1 - 0","Notes":"","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[138.566961,-34.9368102]},"properties":{"Match Number":"30","Weekday":"Sunday","Date":"3 February 2013","Day":"3","Month":"February","Year":"2013","Local Time":"16:30","Opponent":"Adelaide United","Opponent State/Country":"SA","Competition":"A-League Season 2012/13","Round":"19","Venue":"Hindmarsh Stadium","Location":"Adelaide, SA, Australia","Address":"Hindmarsh Stadium, Adelaide, SA, Australia","Home or Away":"Away","Attendance":"9686","Match Result":"Win","Score - WSW-Opp":"4 - 2","Notes":"","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[150.8341232,-34.0515941]},"properties":{"Match Number":"31","Weekday":"Saturday","Date":"9 February 2013","Day":"9","Month":"February","Year":"2013","Local Time":"19:45","Opponent":"Newcastle Jets","Opponent State/Country":"NSW","Competition":"A-League Season 2012/13","Round":"20","Venue":"Campbelltown Stadium","Location":"Campbelltown, NSW,\nAustralia","Address":"Campbelltown Stadium, Campbelltown, NSW,\nAustralia","Home or Away":"Home","Attendance":"10589","Match Result":"Win","Score - WSW-Opp":"2 - 1","Notes":"Community round. Neutral venue.","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[144.96328,-37.814107]},"properties":{"Match Number":"32","Weekday":"Saturday","Date":"16 February 2013","Day":"16","Month":"February","Year":"2013","Local Time":"19:45","Opponent":"Melbourne Victory","Opponent State/Country":"VIC","Competition":"A-League Season 2012/13","Round":"21","Venue":"Melbourne Rectangular Stadium","Location":"Melbourne, VIC, Australia","Address":"Melbourne Rectangular Stadium, Melbourne, VIC, Australia","Home or Away":"Away","Attendance":"21638","Match Result":"Win","Score - WSW-Opp":"2 - 1","Notes":"","Club Achievements, Milestones and Records":"First away win against Melbourne Victory."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.0011047,-33.8096349]},"properties":{"Match Number":"33","Weekday":"Saturday","Date":"23 February 2013","Day":"23","Month":"February","Year":"2013","Local Time":"17:30","Opponent":"Perth Glory","Opponent State/Country":"WA","Competition":"A-League Season 2012/13","Round":"22","Venue":"Parramatta Stadium","Location":"Parramatta, NSW, Australia","Address":"Parramatta Stadium, Parramatta, NSW, Australia","Home or Away":"Home","Attendance":"11772","Match Result":"Win","Score - WSW-Opp":"1 - 0","Notes":"","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.4243965,-33.4412968]},"properties":{"Match Number":"34","Weekday":"Saturday","Date":"2 March 2013","Day":"2","Month":"March","Year":"2013","Local Time":"19:45","Opponent":"Central Coast Mariners","Opponent State/Country":"NSW","Competition":"A-League Season 2012/13","Round":"23","Venue":"Central Coast Stadium","Location":"Gosford, NSW, Australia","Address":"Central Coast Stadium, Gosford, NSW, Australia","Home or Away":"Away","Attendance":"18721","Match Result":"Win","Score - WSW-Opp":"1 - 0","Notes":"","Club Achievements, Milestones and Records":"The match win sees the club leapfrog Central Coast Mariners to reach 1st place on A-League Season ladder. The club beats every A-League opponent in its inaugural A-League Season."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.0011047,-33.8096349]},"properties":{"Match Number":"35","Weekday":"Sunday","Date":"10 March 2013","Day":"10","Month":"March","Year":"2013","Local Time":"17:00","Opponent":"Wellington Phoenix","Opponent State/Country":"NZ","Competition":"A-League Season 2012/13","Round":"24","Venue":"Parramatta Stadium","Location":"Parramatta, NSW, Australia","Address":"Parramatta Stadium, Parramatta, NSW, Australia","Home or Away":"Home","Attendance":"15809","Match Result":"Win","Score - WSW-Opp":"2 - 1","Notes":"","Club Achievements, Milestones and Records":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[144.96328,-37.814107]},"properties":{"Match Number":"36","Weekday":"Saturday","Date":"16 March 2013","Day":"16","Month":"March","Year":"2013","Local Time":"17:30","Opponent":"Melbourne Heart","Opponent State/Country":"VIC","Competition":"A-League Season 2012/13","Round":"25","Venue":"Melbourne Rectangular Stadium","Location":"Melbourne, VIC, Australia","Address":"Melbourne Rectangular Stadium, Melbourne, VIC, Australia","Home or Away":"Away","Attendance":"6101","Match Result":"Win","Score - WSW-Opp":"3 - 2","Notes":"","Club Achievements, Milestones and Records":"Club achieves an Australian record 10 league wins in a row."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.0011047,-33.8096349]},"properties":{"Match Number":"37","Weekday":"Saturday","Date":"23 March 2013","Day":"23","Month":"March","Year":"2013","Local Time":"19:45","Opponent":"Sydney FC","Opponent State/Country":"NSW","Competition":"A-League Season 2012/13","Round":"26","Venue":"Parramatta Stadium","Location":"Parramatta, NSW, Australia","Address":"Parramatta Stadium, Parramatta, NSW, Australia","Home or Away":"Home","Attendance":"19585","Match Result":"Draw","Score - WSW-Opp":"1 - 1","Notes":"","Club Achievements, Milestones and Records":"First Sydney Derby draw. Record A-League Western Sydney Wanderers home match attendance at Parramatta Stadium."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.7788922,-32.926696]},"properties":{"Match Number":"38","Weekday":"Friday","Date":"29 March 2013","Day":"29","Month":"March","Year":"2013","Local Time":"17:30","Opponent":"Newcastle Jets","Opponent State/Country":"NSW","Competition":"A-League Season 2012/13","Round":"27","Venue":"Newcastle International Sports Centre","Location":"Newcastle, NSW, Australia","Address":"Newcastle International Sports Centre, Newcastle, NSW, Australia","Home or Away":"Away","Attendance":"22518","Match Result":"Win","Score - WSW-Opp":"3 - 0","Notes":"","Club Achievements, Milestones and Records":"Club crowned A-League Premiers 2012-13 (1st place on A-League Season ladder) in its inaugural season and claims its first silverware. Club secures AFC Champions League 2014 qualification and qualifies for A-League Finals."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.0011047,-33.8096349]},"properties":{"Match Number":"39","Weekday":"Friday","Date":"12 April 2013","Day":"12","Month":"April","Year":"2013","Local Time":"19:30","Opponent":"Brisbane Roar","Opponent State/Country":"QLD","Competition":"A-League Finals 2012/13","Round":"Semi Final","Venue":"Parramatta Stadium","Location":"Parramatta, NSW, Australia","Address":"Parramatta Stadium, Parramatta, NSW, Australia","Home or Away":"Home","Attendance":"19369","Match Result":"Win","Score - WSW-Opp":"2 - 0","Notes":"","Club Achievements, Milestones and Records":"First A-League Finals match. First A-League Finals win. Club progresses to Grand Final. First A-League Finals goal. First match at home as A-League Premiers. Club beats the defending A-League Champions 4 times in its inaugural A-League Season."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[151.2152663,-33.9009291]},"properties":{"Match Number":"40","Weekday":"Sunday","Date":"21 April 2013","Day":"21","Month":"April","Year":"2013","Local Time":"16:00","Opponent":"Central Coast Mariners","Opponent State/Country":"NSW","Competition":"A-League Finals 2012/13","Round":"Grand Final","Venue":"Sydney Football Stadium","Location":"Moore Park, NSW, Australia","Address":"Sydney Football Stadium, Moore Park, NSW, Australia","Home or Away":"Home","Attendance":"42102","Match Result":"Loss","Score - WSW-Opp":"0 - 2","Notes":"Venue changed by FFA.","Club Achievements, Milestones and Records":"First A-League Grand Final, in the club's inaugural season. A-League Champions runners-up. First A-League Finals loss. Record attendance for a Western Sydney Wanderers home match. Record Australian club football crowd at venue."}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.7697874652876,
+                    -33.77616982927349,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "1",
+                "Weekday": "Wednesday",
+                "Date": "25 July 2012",
+                "Day": "25",
+                "Month": "July",
+                "Year": "2012",
+                "Local_Time": "19:30",
+                "Opponent": "Nepean FC",
+                "Opponent_State_Country": "NSW",
+                "Competition": "Friendly",
+                "Round": "Pre-season",
+                "Venue": "Cook Park",
+                "Location": "St Marys, NSW, Australia",
+                "Address": "Cook Park, St Marys, NSW, Australia",
+                "Latitude": "-33.77616982927349",
+                "Longitude": "150.7697874652876",
+                "Home_or_Away": "Away",
+                "Attendance": "3612",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "5 - 0",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "First match. First goal. First win."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.8527703702235,
+                    -33.76985018779725,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "2",
+                "Weekday": "Wednesday",
+                "Date": "1 August 2012",
+                "Day": "1",
+                "Month": "August",
+                "Year": "2012",
+                "Local_Time": "19:30",
+                "Opponent": "Blacktown Spartans",
+                "Opponent_State_Country": "NSW",
+                "Competition": "Friendly",
+                "Round": "Pre-season",
+                "Venue": "Athletics Centre, Blacktown International Sportspark",
+                "Location": "Rooty Hill, NSW, Australia",
+                "Address": "Athletics Centre, Blacktown International Sportspark, Rooty Hill, NSW, Australia",
+                "Latitude": "-33.76985018779725",
+                "Longitude": "150.8527703702235",
+                "Home_or_Away": "Away",
+                "Attendance": "4116",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "2 - 0",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.9400492699214,
+                    -33.76706144323335,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "3",
+                "Weekday": "Wednesday",
+                "Date": "8 August 2012",
+                "Day": "8",
+                "Month": "August",
+                "Year": "2012",
+                "Local_Time": "19:00",
+                "Opponent": "Blacktown City",
+                "Opponent_State_Country": "NSW",
+                "Competition": "Friendly",
+                "Round": "Pre-season",
+                "Venue": "Gabbie Stadium",
+                "Location": "Seven Hills, NSW, Australia",
+                "Address": "Gabbie Stadium, Seven Hills, NSW, Australia",
+                "Latitude": "-33.76706144323335",
+                "Longitude": "150.9400492699214",
+                "Home_or_Away": "Away",
+                "Attendance": "3472",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "2 - 0",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.8741927468741,
+                    -33.87572487548244,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "4",
+                "Weekday": "Wednesday",
+                "Date": "22 August 2012",
+                "Day": "22",
+                "Month": "August",
+                "Year": "2012",
+                "Local_Time": "19:30",
+                "Opponent": "Sydney United",
+                "Opponent_State_Country": "NSW",
+                "Competition": "Friendly",
+                "Round": "Pre-season",
+                "Venue": "Edensor Park",
+                "Location": "Edensor Park, NSW, Australia",
+                "Address": "Edensor Park, Edensor Park, NSW, Australia",
+                "Latitude": "-33.87572487548244",
+                "Longitude": "150.8741927468741",
+                "Home_or_Away": "Away",
+                "Attendance": "3234",
+                "Match_Result": "Loss",
+                "Score___WSW_Opp": "1 - 2",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "First loss. First goal conceded."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.1244258,
+                    -27.4687447,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "5",
+                "Weekday": "Tuesday",
+                "Date": "28 August 2012",
+                "Day": "28",
+                "Month": "August",
+                "Year": "2012",
+                "Local_Time": "19:30",
+                "Opponent": "Wynnum Wolves",
+                "Opponent_State_Country": "QLD",
+                "Competition": "Friendly",
+                "Round": "Pre-season",
+                "Venue": "Carmichael Park",
+                "Location": "Tingalpa, QLD, Australia",
+                "Address": "Carmichael Park, Tingalpa, QLD, Australia",
+                "Latitude": "-27.4687447",
+                "Longitude": "153.1244258",
+                "Home_or_Away": "Away",
+                "Attendance": "3000",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "1 - 0",
+                "Notes": "Part of Brisbane training camp",
+                "Club_Achievements__Milestones_and_Records": "First inter-state match."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.281505397614,
+                    -28.81063892055317,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "6",
+                "Weekday": "Friday",
+                "Date": "31 August 2012",
+                "Day": "31",
+                "Month": "August",
+                "Year": "2012",
+                "Local_Time": "19:00",
+                "Opponent": "Melbourne Heart",
+                "Opponent_State_Country": "VIC",
+                "Competition": "Friendly",
+                "Round": "Pre-season",
+                "Venue": "Oakes Oval",
+                "Location": "Lismore, NSW, Australia",
+                "Address": "Oakes Oval, Lismore, NSW, Australia",
+                "Latitude": "-28.81063892055317",
+                "Longitude": "153.281505397614",
+                "Home_or_Away": "Away",
+                "Attendance": "3300",
+                "Match_Result": "Loss",
+                "Score___WSW_Opp": "0 - 0",
+                "Notes": "0 -0 end of play. Loss 3 - 5 on penalties. Neutral venue. Craig Foster Cup.",
+                "Club_Achievements__Milestones_and_Records": "First match against an A-League opponent. First penalty shootout. Craig Foster Cup runners-up."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.999716,
+                    -33.808151,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "7",
+                "Weekday": "Sunday",
+                "Date": "9 September 2012",
+                "Day": "9",
+                "Month": "September",
+                "Year": "2012",
+                "Local_Time": "19:00",
+                "Opponent": "Parramatta FC",
+                "Opponent_State_Country": "NSW",
+                "Competition": "Friendly",
+                "Round": "Pre-season",
+                "Venue": "Parramatta Stadium",
+                "Location": "Parramatta, NSW, Australia",
+                "Address": "Parramatta Stadium, Parramatta, NSW, Australia",
+                "Latitude": "-33.808151",
+                "Longitude": "150.999716",
+                "Home_or_Away": "Home",
+                "Attendance": "1063",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "1 - 0",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "First home match at Parramatta Stadium."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.7310231317847,
+                    -32.92044908080788,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "8",
+                "Weekday": "Saturday",
+                "Date": "15 September 2012",
+                "Day": "15",
+                "Month": "September",
+                "Year": "2012",
+                "Local_Time": "14:00",
+                "Opponent": "Newcastle Jets",
+                "Opponent_State_Country": "NSW",
+                "Competition": "Friendly",
+                "Round": "Pre-season",
+                "Venue": "Wanderers Oval",
+                "Location": "Broadmeadow, NSW,Australia",
+                "Address": "Wanderers Oval, Broadmeadow, NSW,Australia",
+                "Latitude": "-32.92044908080788",
+                "Longitude": "151.7310231317847",
+                "Home_or_Away": "Away",
+                "Attendance": "3000",
+                "Match_Result": "Draw",
+                "Score___WSW_Opp": "1 - 1",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "First draw."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6540112816092,
+                    -43.54194906091301,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "9",
+                "Weekday": "Sunday",
+                "Date": "23 September 2012",
+                "Day": "23",
+                "Month": "September",
+                "Year": "2012",
+                "Local_Time": "14:30",
+                "Opponent": "Wellington Phoenix",
+                "Opponent_State_Country": "NZ",
+                "Competition": "Friendly",
+                "Round": "Pre-season",
+                "Venue": "Lancaster Park",
+                "Location": "Christchurch, New Zealand",
+                "Address": "Lancaster Park, Christchurch, New Zealand",
+                "Latitude": "-43.54194906091301",
+                "Longitude": "172.6540112816092",
+                "Home_or_Away": "Away",
+                "Attendance": "6500",
+                "Match_Result": "Draw",
+                "Score___WSW_Opp": "1 - 1",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "First match played outside Australia. First match played in New Zealand."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.0176629999999,
+                    -33.88344530000001,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "10",
+                "Weekday": "Thursday",
+                "Date": "27 September 2012",
+                "Day": "27",
+                "Month": "September",
+                "Year": "2012",
+                "Local_Time": "19:30",
+                "Opponent": "Bankstown City Lions",
+                "Opponent_State_Country": "NSW",
+                "Competition": "Friendly",
+                "Round": "Pre-season",
+                "Venue": "Jensen Park",
+                "Location": "Sefton, NSW, Australia",
+                "Address": "Jensen Park, Sefton, NSW, Australia",
+                "Latitude": "-33.88344530000001",
+                "Longitude": "151.0176629999999",
+                "Home_or_Away": "Away",
+                "Attendance": "2000",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "3 - 0",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.999716,
+                    -33.808151,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "11",
+                "Weekday": "Saturday",
+                "Date": "6 October 2012",
+                "Day": "6",
+                "Month": "October",
+                "Year": "2012",
+                "Local_Time": "19:45",
+                "Opponent": "Central Coast Mariners",
+                "Opponent_State_Country": "NSW",
+                "Competition": "A-League Season 2012/13",
+                "Round": "1",
+                "Venue": "Parramatta Stadium",
+                "Location": "Parramatta, NSW, Australia",
+                "Address": "Parramatta Stadium, Parramatta, NSW, Australia",
+                "Latitude": "-33.808151",
+                "Longitude": "150.999716",
+                "Home_or_Away": "Home",
+                "Attendance": "10458",
+                "Match_Result": "Draw",
+                "Score___WSW_Opp": "0 - 0",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "First A-League Season match and home match, against the defending A-League Premiers. First competitive match, competitive draw and competition points. First match wearing the red and black hooped home jersey. Club enters A-League Season 8."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.568919,
+                    -34.907397,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "12",
+                "Weekday": "Friday",
+                "Date": "12 October 2012",
+                "Day": "12",
+                "Month": "October",
+                "Year": "2012",
+                "Local_Time": "19:00",
+                "Opponent": "Adelaide United",
+                "Opponent_State_Country": "SA",
+                "Competition": "A-League Season 2012/13",
+                "Round": "2",
+                "Venue": "Hindmarsh Stadium",
+                "Location": "Adelaide, SA, Australia",
+                "Address": "Hindmarsh Stadium, Adelaide, SA, Australia",
+                "Latitude": "-34.907397",
+                "Longitude": "138.568919",
+                "Home_or_Away": "Away",
+                "Attendance": "8950",
+                "Match_Result": "Loss",
+                "Score___WSW_Opp": "0 - 1",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "First A-League away match. First A-League Season loss. First competitive loss. First competitive goal conceded. First match wearing the red and white hooped away jersey."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.999716,
+                    -33.808151,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "13",
+                "Weekday": "Saturday",
+                "Date": "20 October 2012",
+                "Day": "20",
+                "Month": "October",
+                "Year": "2012",
+                "Local_Time": "19:45",
+                "Opponent": "Sydney FC",
+                "Opponent_State_Country": "NSW",
+                "Competition": "A-League Season 2012/13",
+                "Round": "3",
+                "Venue": "Parramatta Stadium",
+                "Location": "Parramatta, NSW, Australia",
+                "Address": "Parramatta Stadium, Parramatta, NSW, Australia",
+                "Latitude": "-33.808151",
+                "Longitude": "150.999716",
+                "Home_or_Away": "Home",
+                "Attendance": "19126",
+                "Match_Result": "Loss",
+                "Score___WSW_Opp": "0 - 1",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "First Sydney Derby. First Sydney Derby loss. First sold-out home match."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.009539,
+                    -27.464671,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "14",
+                "Weekday": "Saturday",
+                "Date": "27 October 2012",
+                "Day": "27",
+                "Month": "October",
+                "Year": "2012",
+                "Local_Time": "18:45",
+                "Opponent": "Brisbane Roar",
+                "Opponent_State_Country": "QLD",
+                "Competition": "A-League Season 2012/13",
+                "Round": "4",
+                "Venue": "Lang Park",
+                "Location": "Brisbane, QLD, Australia",
+                "Address": "Lang Park, Brisbane, QLD, Australia",
+                "Latitude": "-27.464671",
+                "Longitude": "153.009539",
+                "Home_or_Away": "Away",
+                "Attendance": "12663",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "1 - 0",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "First A-League Season win, against the defending A-League Champions. First competitive goal. First competitive win. First A-League Season away win."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.999716,
+                    -33.808151,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "15",
+                "Weekday": "Friday",
+                "Date": "2 November 2012",
+                "Day": "2",
+                "Month": "November",
+                "Year": "2012",
+                "Local_Time": "19:30",
+                "Opponent": "Melbourne Heart",
+                "Opponent_State_Country": "VIC",
+                "Competition": "A-League Season 2012/13",
+                "Round": "5",
+                "Venue": "Parramatta Stadium",
+                "Location": "Parramatta, NSW, Australia",
+                "Address": "Parramatta Stadium, Parramatta, NSW, Australia",
+                "Latitude": "-33.808151",
+                "Longitude": "150.999716",
+                "Home_or_Away": "Home",
+                "Attendance": "8075",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "2 - 1",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "First A-League Season home win."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1174258859175,
+                    -33.76439936447449,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "16",
+                "Weekday": "Tuesday",
+                "Date": "6 November 2012",
+                "Day": "6",
+                "Month": "November",
+                "Year": "2012",
+                "Local_Time": "14:00",
+                "Opponent": "Sydney FC",
+                "Opponent_State_Country": "NSW",
+                "Competition": "Friendly",
+                "Round": "Mid-season",
+                "Venue": "Winter Field, Macquarie University",
+                "Location": "Macquarie Park, NSW,Australia",
+                "Address": "Winter Field, Macquarie University, Macquarie Park, NSW,Australia",
+                "Latitude": "-33.76439936447449",
+                "Longitude": "151.1174258859175",
+                "Home_or_Away": "Away",
+                "Attendance": "0",
+                "Match_Result": "Loss",
+                "Score___WSW_Opp": "0 - 1",
+                "Notes": "Held behind closed doors.",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.999716,
+                    -33.808151,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "17",
+                "Weekday": "Saturday",
+                "Date": "10 November 2012",
+                "Day": "10",
+                "Month": "November",
+                "Year": "2012",
+                "Local_Time": "17:30",
+                "Opponent": "Newcastle Jets",
+                "Opponent_State_Country": "NSW",
+                "Competition": "A-League Season 2012/13",
+                "Round": "6",
+                "Venue": "Parramatta Stadium",
+                "Location": "Parramatta, NSW, Australia",
+                "Address": "Parramatta Stadium, Parramatta, NSW, Australia",
+                "Latitude": "-33.808151",
+                "Longitude": "150.999716",
+                "Home_or_Away": "Home",
+                "Attendance": "9011",
+                "Match_Result": "Loss",
+                "Score___WSW_Opp": "1 - 2",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.8699480008372,
+                    -31.94570032382918,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "18",
+                "Weekday": "Sunday",
+                "Date": "18 November 2012",
+                "Day": "18",
+                "Month": "November",
+                "Year": "2012",
+                "Local_Time": "14:00",
+                "Opponent": "Perth Glory",
+                "Opponent_State_Country": "WA",
+                "Competition": "A-League Season 2012/13",
+                "Round": "7",
+                "Venue": "Perth Oval",
+                "Location": "Perth, WA, Australia",
+                "Address": "Perth Oval, Perth, WA, Australia",
+                "Latitude": "-31.94570032382918",
+                "Longitude": "115.8699480008372",
+                "Home_or_Away": "Away",
+                "Attendance": "9060",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "1 - 0",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.999716,
+                    -33.808151,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "19",
+                "Weekday": "Saturday",
+                "Date": "24 November 2012",
+                "Day": "24",
+                "Month": "November",
+                "Year": "2012",
+                "Local_Time": "19:45",
+                "Opponent": "Melbourne Victory",
+                "Opponent_State_Country": "VIC",
+                "Competition": "A-League Season 2012/13",
+                "Round": "8",
+                "Venue": "Parramatta Stadium",
+                "Location": "Parramatta, NSW, Australia",
+                "Address": "Parramatta Stadium, Parramatta, NSW, Australia",
+                "Latitude": "-33.808151",
+                "Longitude": "150.999716",
+                "Home_or_Away": "Home",
+                "Attendance": "9614",
+                "Match_Result": "Loss",
+                "Score___WSW_Opp": "0 - 2",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.786006,
+                    -41.273072,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "20",
+                "Weekday": "Sunday",
+                "Date": "2 December 2012",
+                "Day": "2",
+                "Month": "December",
+                "Year": "2012",
+                "Local_Time": "16:30",
+                "Opponent": "Wellington Phoenix",
+                "Opponent_State_Country": "NZ",
+                "Competition": "A-League Season 2012/13",
+                "Round": "9",
+                "Venue": "Wellington Regional Stadium",
+                "Location": "Wellington, New Zealand",
+                "Address": "Wellington Regional Stadium, Wellington, New Zealand",
+                "Latitude": "-41.273072",
+                "Longitude": "174.786006",
+                "Home_or_Away": "Away",
+                "Attendance": "5045",
+                "Match_Result": "Loss",
+                "Score___WSW_Opp": "0 - 1",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.999716,
+                    -33.808151,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "21",
+                "Weekday": "Sunday",
+                "Date": "9 December 2012",
+                "Day": "9",
+                "Month": "December",
+                "Year": "2012",
+                "Local_Time": "17:00",
+                "Opponent": "Brisbane Roar",
+                "Opponent_State_Country": "QLD",
+                "Competition": "A-League Season 2012/13",
+                "Round": "10",
+                "Venue": "Parramatta Stadium",
+                "Location": "Parramatta, NSW, Australia",
+                "Address": "Parramatta Stadium, Parramatta, NSW, Australia",
+                "Latitude": "-33.808151",
+                "Longitude": "150.999716",
+                "Home_or_Away": "Home",
+                "Attendance": "6755",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "1 - 0",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.225455,
+                    -33.889164,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "22",
+                "Weekday": "Saturday",
+                "Date": "15 December 2012",
+                "Day": "15",
+                "Month": "December",
+                "Year": "2012",
+                "Local_Time": "19:45",
+                "Opponent": "Sydney FC",
+                "Opponent_State_Country": "NSW",
+                "Competition": "A-League Season 2012/13",
+                "Round": "11",
+                "Venue": "Sydney Football Stadium",
+                "Location": "Moore Park, NSW, Australia",
+                "Address": "Sydney Football Stadium, Moore Park, NSW, Australia",
+                "Latitude": "-33.889164",
+                "Longitude": "151.225455",
+                "Home_or_Away": "Away",
+                "Attendance": "26176",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "2 - 0",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "First Sydney Derby win. First Sydney Derby away win."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.999716,
+                    -33.808151,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "23",
+                "Weekday": "Friday",
+                "Date": "21 December 2012",
+                "Day": "21",
+                "Month": "December",
+                "Year": "2012",
+                "Local_Time": "19:00",
+                "Opponent": "Adelaide United",
+                "Opponent_State_Country": "SA",
+                "Competition": "A-League Season 2012/13",
+                "Round": "12",
+                "Venue": "Parramatta Stadium",
+                "Location": "Parramatta, NSW, Australia",
+                "Address": "Parramatta Stadium, Parramatta, NSW, Australia",
+                "Latitude": "-33.808151",
+                "Longitude": "150.999716",
+                "Home_or_Away": "Home",
+                "Attendance": "9056",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "6 - 1",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "First win by margin of 5 goals in a competitive game."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.8300889875841,
+                    -31.94449997318403,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "24",
+                "Weekday": "Thursday",
+                "Date": "27 December 2012",
+                "Day": "27",
+                "Month": "December",
+                "Year": "2012",
+                "Local_Time": "18:45",
+                "Opponent": "Perth Glory",
+                "Opponent_State_Country": "WA",
+                "Competition": "A-League Season 2012/13",
+                "Round": "13",
+                "Venue": "Subiaco Oval",
+                "Location": "Perth, WA, Australia",
+                "Address": "Subiaco Oval, Perth, WA, Australia",
+                "Latitude": "-31.94449997318403",
+                "Longitude": "115.8300889875841",
+                "Home_or_Away": "Away",
+                "Attendance": "9236",
+                "Match_Result": "Draw",
+                "Score___WSW_Opp": "1 - 1",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.999716,
+                    -33.808151,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "25",
+                "Weekday": "Tuesday",
+                "Date": "1 January 2013",
+                "Day": "1",
+                "Month": "January",
+                "Year": "2013",
+                "Local_Time": "18:15",
+                "Opponent": "Melbourne Victory",
+                "Opponent_State_Country": "VIC",
+                "Competition": "A-League Season 2012/13",
+                "Round": "14",
+                "Venue": "Parramatta Stadium",
+                "Location": "Parramatta, NSW, Australia",
+                "Address": "Parramatta Stadium, Parramatta, NSW, Australia",
+                "Latitude": "-33.808151",
+                "Longitude": "150.999716",
+                "Home_or_Away": "Home",
+                "Attendance": "13659",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "2 - 1",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "First win and first home win against Melbourne Victory."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.999716,
+                    -33.808151,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "26",
+                "Weekday": "Sunday",
+                "Date": "6 January 2013",
+                "Day": "6",
+                "Month": "January",
+                "Year": "2013",
+                "Local_Time": "18:00",
+                "Opponent": "Central Coast Mariners",
+                "Opponent_State_Country": "NSW",
+                "Competition": "A-League Season 2012/13",
+                "Round": "15",
+                "Venue": "Parramatta Stadium",
+                "Location": "Parramatta, NSW, Australia",
+                "Address": "Parramatta Stadium, Parramatta, NSW, Australia",
+                "Latitude": "-33.808151",
+                "Longitude": "150.999716",
+                "Home_or_Away": "Home",
+                "Attendance": "16387",
+                "Match_Result": "Loss",
+                "Score___WSW_Opp": "0 - 2",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.786006,
+                    -41.273072,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "27",
+                "Weekday": "Sunday",
+                "Date": "13 January 2013",
+                "Day": "13",
+                "Month": "January",
+                "Year": "2013",
+                "Local_Time": "16:30",
+                "Opponent": "Wellington Phoenix",
+                "Opponent_State_Country": "NZ",
+                "Competition": "A-League Season 2012/13",
+                "Round": "16",
+                "Venue": "Wellington Regional Stadium",
+                "Location": "Wellington, New Zealand",
+                "Address": "Wellington Regional Stadium, Wellington, New Zealand",
+                "Latitude": "-41.273072",
+                "Longitude": "174.786006",
+                "Home_or_Away": "Away",
+                "Attendance": "6608",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "2 - 0",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.009539,
+                    -27.464671,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "28",
+                "Weekday": "Sunday",
+                "Date": "20 January 2013",
+                "Day": "20",
+                "Month": "January",
+                "Year": "2013",
+                "Local_Time": "17:00",
+                "Opponent": "Brisbane Roar",
+                "Opponent_State_Country": "QLD",
+                "Competition": "A-League Season 2012/13",
+                "Round": "17",
+                "Venue": "Lang Park",
+                "Location": "Brisbane, QLD, Australia",
+                "Address": "Lang Park, Brisbane, QLD, Australia",
+                "Latitude": "-27.464671",
+                "Longitude": "153.009539",
+                "Home_or_Away": "Away",
+                "Attendance": "11917",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "2 - 1",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.999716,
+                    -33.808151,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "29",
+                "Weekday": "Saturday",
+                "Date": "26 January 2013",
+                "Day": "26",
+                "Month": "January",
+                "Year": "2013",
+                "Local_Time": "19:45",
+                "Opponent": "Melbourne Heart",
+                "Opponent_State_Country": "VIC",
+                "Competition": "A-League Season 2012/13",
+                "Round": "18",
+                "Venue": "Parramatta Stadium",
+                "Location": "Parramatta, NSW, Australia",
+                "Address": "Parramatta Stadium, Parramatta, NSW, Australia",
+                "Latitude": "-33.808151",
+                "Longitude": "150.999716",
+                "Home_or_Away": "Home",
+                "Attendance": "14624",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "1 - 0",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.568919,
+                    -34.907397,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "30",
+                "Weekday": "Sunday",
+                "Date": "3 February 2013",
+                "Day": "3",
+                "Month": "February",
+                "Year": "2013",
+                "Local_Time": "16:30",
+                "Opponent": "Adelaide United",
+                "Opponent_State_Country": "SA",
+                "Competition": "A-League Season 2012/13",
+                "Round": "19",
+                "Venue": "Hindmarsh Stadium",
+                "Location": "Adelaide, SA, Australia",
+                "Address": "Hindmarsh Stadium, Adelaide, SA, Australia",
+                "Latitude": "-34.907397",
+                "Longitude": "138.568919",
+                "Home_or_Away": "Away",
+                "Attendance": "9686",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "4 - 2",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.8337295806845,
+                    -34.05037201711929,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "31",
+                "Weekday": "Saturday",
+                "Date": "9 February 2013",
+                "Day": "9",
+                "Month": "February",
+                "Year": "2013",
+                "Local_Time": "19:45",
+                "Opponent": "Newcastle Jets",
+                "Opponent_State_Country": "NSW",
+                "Competition": "A-League Season 2012/13",
+                "Round": "20",
+                "Venue": "Campbelltown Stadium",
+                "Location": "Campbelltown, NSW,Australia",
+                "Address": "Campbelltown Stadium, Campbelltown, NSW,Australia",
+                "Latitude": "-34.05037201711929",
+                "Longitude": "150.8337295806845",
+                "Home_or_Away": "Home",
+                "Attendance": "10589",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "2 - 1",
+                "Notes": "Community round. Neutral venue.",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.983964,
+                    -37.825067,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "32",
+                "Weekday": "Saturday",
+                "Date": "16 February 2013",
+                "Day": "16",
+                "Month": "February",
+                "Year": "2013",
+                "Local_Time": "19:45",
+                "Opponent": "Melbourne Victory",
+                "Opponent_State_Country": "VIC",
+                "Competition": "A-League Season 2012/13",
+                "Round": "21",
+                "Venue": "Melbourne Rectangular Stadium",
+                "Location": "Melbourne, VIC, Australia",
+                "Address": "Melbourne Rectangular Stadium, Melbourne, VIC, Australia",
+                "Latitude": "-37.825067",
+                "Longitude": "144.983964",
+                "Home_or_Away": "Away",
+                "Attendance": "21638",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "2 - 1",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "First away win against Melbourne Victory."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.999716,
+                    -33.808151,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "33",
+                "Weekday": "Saturday",
+                "Date": "23 February 2013",
+                "Day": "23",
+                "Month": "February",
+                "Year": "2013",
+                "Local_Time": "17:30",
+                "Opponent": "Perth Glory",
+                "Opponent_State_Country": "WA",
+                "Competition": "A-League Season 2012/13",
+                "Round": "22",
+                "Venue": "Parramatta Stadium",
+                "Location": "Parramatta, NSW, Australia",
+                "Address": "Parramatta Stadium, Parramatta, NSW, Australia",
+                "Latitude": "-33.808151",
+                "Longitude": "150.999716",
+                "Home_or_Away": "Home",
+                "Attendance": "11772",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "1 - 0",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.3381398470787,
+                    -33.42828895713087,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "34",
+                "Weekday": "Saturday",
+                "Date": "2 March 2013",
+                "Day": "2",
+                "Month": "March",
+                "Year": "2013",
+                "Local_Time": "19:45",
+                "Opponent": "Central Coast Mariners",
+                "Opponent_State_Country": "NSW",
+                "Competition": "A-League Season 2012/13",
+                "Round": "23",
+                "Venue": "Central Coast Stadium",
+                "Location": "Gosford, NSW, Australia",
+                "Address": "Central Coast Stadium, Gosford, NSW, Australia",
+                "Latitude": "-33.42828895713087",
+                "Longitude": "151.3381398470787",
+                "Home_or_Away": "Away",
+                "Attendance": "18721",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "1 - 0",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "The match win sees the club leapfrog Central Coast Mariners to reach 1st place on A-League Season ladder. The club beats every A-League opponent in its inaugural A-League Season."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.999716,
+                    -33.808151,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "35",
+                "Weekday": "Sunday",
+                "Date": "10 March 2013",
+                "Day": "10",
+                "Month": "March",
+                "Year": "2013",
+                "Local_Time": "17:00",
+                "Opponent": "Wellington Phoenix",
+                "Opponent_State_Country": "NZ",
+                "Competition": "A-League Season 2012/13",
+                "Round": "24",
+                "Venue": "Parramatta Stadium",
+                "Location": "Parramatta, NSW, Australia",
+                "Address": "Parramatta Stadium, Parramatta, NSW, Australia",
+                "Latitude": "-33.808151",
+                "Longitude": "150.999716",
+                "Home_or_Away": "Home",
+                "Attendance": "15809",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "2 - 1",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.983964,
+                    -37.825067,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "36",
+                "Weekday": "Saturday",
+                "Date": "16 March 2013",
+                "Day": "16",
+                "Month": "March",
+                "Year": "2013",
+                "Local_Time": "17:30",
+                "Opponent": "Melbourne Heart",
+                "Opponent_State_Country": "VIC",
+                "Competition": "A-League Season 2012/13",
+                "Round": "25",
+                "Venue": "Melbourne Rectangular Stadium",
+                "Location": "Melbourne, VIC, Australia",
+                "Address": "Melbourne Rectangular Stadium, Melbourne, VIC, Australia",
+                "Latitude": "-37.825067",
+                "Longitude": "144.983964",
+                "Home_or_Away": "Away",
+                "Attendance": "6101",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "3 - 2",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "Club achieves an Australian record 10 league wins in a row."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.999716,
+                    -33.808151,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "37",
+                "Weekday": "Saturday",
+                "Date": "23 March 2013",
+                "Day": "23",
+                "Month": "March",
+                "Year": "2013",
+                "Local_Time": "19:45",
+                "Opponent": "Sydney FC",
+                "Opponent_State_Country": "NSW",
+                "Competition": "A-League Season 2012/13",
+                "Round": "26",
+                "Venue": "Parramatta Stadium",
+                "Location": "Parramatta, NSW, Australia",
+                "Address": "Parramatta Stadium, Parramatta, NSW, Australia",
+                "Latitude": "-33.808151",
+                "Longitude": "150.999716",
+                "Home_or_Away": "Home",
+                "Attendance": "19585",
+                "Match_Result": "Draw",
+                "Score___WSW_Opp": "1 - 1",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "First Sydney Derby draw. Record A-League Western Sydney Wanderers home match attendance at Parramatta Stadium."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.7264173707682,
+                    -32.91879820046429,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "38",
+                "Weekday": "Friday",
+                "Date": "29 March 2013",
+                "Day": "29",
+                "Month": "March",
+                "Year": "2013",
+                "Local_Time": "17:30",
+                "Opponent": "Newcastle Jets",
+                "Opponent_State_Country": "NSW",
+                "Competition": "A-League Season 2012/13",
+                "Round": "27",
+                "Venue": "Newcastle International Sports Centre",
+                "Location": "Newcastle, NSW, Australia",
+                "Address": "Newcastle International Sports Centre, Newcastle, NSW, Australia",
+                "Latitude": "-32.91879820046429",
+                "Longitude": "151.7264173707682",
+                "Home_or_Away": "Away",
+                "Attendance": "22518",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "3 - 0",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "Club crowned A-League Premiers 2012-13 (1st place on A-League Season ladder) in its inaugural season and claims its first silverware. Club secures AFC Champions League 2014 qualification and qualifies for A-League Finals."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.999716,
+                    -33.808151,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "39",
+                "Weekday": "Friday",
+                "Date": "12 April 2013",
+                "Day": "12",
+                "Month": "April",
+                "Year": "2013",
+                "Local_Time": "19:30",
+                "Opponent": "Brisbane Roar",
+                "Opponent_State_Country": "QLD",
+                "Competition": "A-League Finals 2012/13",
+                "Round": "Semi Final",
+                "Venue": "Parramatta Stadium",
+                "Location": "Parramatta, NSW, Australia",
+                "Address": "Parramatta Stadium, Parramatta, NSW, Australia",
+                "Latitude": "-33.808151",
+                "Longitude": "150.999716",
+                "Home_or_Away": "Home",
+                "Attendance": "19369",
+                "Match_Result": "Win",
+                "Score___WSW_Opp": "2 - 0",
+                "Notes": "",
+                "Club_Achievements__Milestones_and_Records": "First A-League Finals match. First A-League Finals win. Club progresses to Grand Final. First A-League Finals goal. First match at home as A-League Premiers. Club beats the defending A-League Champions 4 times in its inaugural A-League Season."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.225455,
+                    -33.889164,
+                    0
+                ]
+            },
+            "properties": {
+                "Match_Number": "40",
+                "Weekday": "Sunday",
+                "Date": "21 April 2013",
+                "Day": "21",
+                "Month": "April",
+                "Year": "2013",
+                "Local_Time": "16:00",
+                "Opponent": "Central Coast Mariners",
+                "Opponent_State_Country": "NSW",
+                "Competition": "A-League Finals 2012/13",
+                "Round": "Grand Final",
+                "Venue": "Sydney Football Stadium",
+                "Location": "Moore Park, NSW, Australia",
+                "Address": "Sydney Football Stadium, Moore Park, NSW, Australia",
+                "Latitude": "-33.889164",
+                "Longitude": "151.225455",
+                "Home_or_Away": "Home",
+                "Attendance": "42102",
+                "Match_Result": "Loss",
+                "Score___WSW_Opp": "0 - 2",
+                "Notes": "Venue changed by FFA.",
+                "Club_Achievements__Milestones_and_Records": "First A-League Grand Final, in the club's inaugural season. A-League Champions runners-up. First A-League Finals loss. Record attendance for a Western Sydney Wanderers home match. Record Australian club football crowd at venue."
+            }
+        }
+    ]
+}
